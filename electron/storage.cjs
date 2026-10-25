@@ -1,0 +1,2 @@
+function diskState(store){return {...store,newsroom:store.settings.lowStorage?null:store.newsroom,newsroomCleared:store.settings.lowStorage||Boolean(store.newsroomCleared),articles:store.settings.lowStorage?[]:store.articles,translations:store.settings.lowStorage?{}:store.translations,statuses:store.settings.lowStorage?{}:store.statuses,articlesCleared:store.settings.lowStorage||Boolean(store.articlesCleared)};}
+module.exports={diskState};

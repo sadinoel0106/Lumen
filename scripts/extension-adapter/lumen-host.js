@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener((message,sender,respond)=>{if(sender.id!==chrome.runtime.id||!message?.lumenRpc)return;window.lumenExtensionHost.request(message.lumenRpc,message.args).then(value=>respond({value}),error=>respond({error:error.message}));return true;});

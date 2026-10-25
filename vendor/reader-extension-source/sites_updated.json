@@ -1,0 +1,207 @@
+{
+  "Capital.bg": {
+    "domain": "capital.bg",
+    "remove_cookies_select_drop": ["PHPSESSID", "uhash"],
+    "upd_version": "4.4.6.7"
+  },
+  "Crain Communications": {
+    "domain": "###_usa_craincomm",
+    "group": [
+      "360dx.com",
+      "adage.com",
+      "autonews.com",
+      "chicagobusiness.com",
+      "crainscleveland.com",
+      "crainsdetroit.com",
+      "crainsgrandrapids.com",
+      "crainsnewyork.com",
+      "european-rubber-journal.com",
+      "genomeweb.com",
+      "modernhealthcare.com",
+      "pionline.com",
+      "plasticsnews.com",
+      "precisionmedicineonline.com",
+      "rubbernews.com",
+      "tirebusiness.com",
+      "utech-polyurethane.com"
+    ],
+    "allow_cookies": 1,
+    "block_regex": "(js\\.pelcro\\.com\\/|\\.sophi\\.io\\/|\\.{domain}\\/script\\.js)",
+    "cs_dompurify": 1,
+    "cs_code": [{"cond":"html[style],body[style]", "rm_attrib":"style"}, {"cond":"div#fusion-app[inert]", "rm_attrib":"inert"},{"hide_elem":"div[data-paywall-portal]"}],
+    "exception": [{
+        "domain": ["360dx.com", "genomeweb.com", "precisionmedicineonline.com"],
+        "allow_cookies": 1,
+        "block_regex": "(js\\.pelcro\\.com\\/|\\.{domain}\\/(script|profiles\\/.+\\/crain_pelcro_user)\\.js)"
+      }, {
+        "domain": "european-rubber-journal.com",
+        "allow_cookies": 1
+      }
+    ],
+    "upd_version_min": "4.4.2.1",
+    "upd_version": "4.4.7.7"
+  },
+  "Funke Mediengruppe": {
+    "domain": "###_de_funke_medien",
+    "group": [
+      "abendblatt.de",
+      "braunschweiger-zeitung.de",
+      "harzkurier.de",
+      "ikz-online.de",
+      "morgenpost.de",
+      "nrz.de",
+      "otz.de",
+      "thueringer-allgemeine.de",
+      "tlz.de",
+      "waz.de",
+      "wp.de",
+      "wr.de"
+    ],
+    "allow_cookies": 1,
+    "block_regex": "\\.piano\\.io",
+    "cs_block": 1,
+    "ld_archive_is": "div#paywall-container|article",
+    "exception": [{
+        "domain": ["waz.de", "wp.de", "wr.de"],
+        "allow_cookies": 1,
+        "block_regex": "\\.piano\\.io",
+        "cs_dompurify": 1
+      }
+    ],
+    "upd_version": "4.4.7.6"
+  },
+  "Gannett Group": {
+    "domain": "###_usa_gannett",
+    "group": [
+      "azcentral.com",
+      "cincinnati.com",
+      "commercialappeal.com",
+      "courier-journal.com",
+      "democratandchronicle.com",
+      "desmoinesregister.com",
+      "detroitnews.com",
+      "dispatch.com",
+      "freep.com",
+      "indystar.com",
+      "jacksonville.com",
+      "jsonline.com",
+      "knoxnews.com",
+      "news-press.com",
+      "northjersey.com",
+      "oklahoman.com",
+      "palmbeachpost.com",
+      "tennessean.com"
+    ],
+    "allow_cookies": 1,
+    "ld_archive_is": "aside.gnt_rb|article",
+    "upd_version": "4.4.7.4"
+  },
+  "Jeune Afrique (removed)": {
+    "domain": "jeuneafrique.com",
+    "allow_cookies": 1,
+    "nofix": 1,
+    "cs_block": 1,
+    "upd_version2": "4.4.7.8"
+  },
+  "La Nación": {
+    "domain": "lanacion.com.ar",
+    "allow_cookies": 1,
+    "cs_clear_lclstrg": 1,
+    "ld_archive_is": "div.blur-content-body|main",
+    "cs_code": [{"cond":"div#ln-wall-scope", "rm_elem":1}],
+    "upd_version": "4.4.7.5"
+  },
+  "Live Science": {
+    "domain": "livescience.com",
+    "allow_cookies": 1,
+    "cs_code": [{"cond":"div.paywall-locker", "rm_class":"paywall-locker"}, {"hide_elem":"div#paywall,div.paywall-fade-out"}],
+    "upd_version": "4.4.6.7"
+  },
+  "Los Angeles Times": {
+    "domain": "latimes.com",
+    "allow_cookies": 1,
+    "block_regex": "(\\.latimes\\.com\\/meteringjs|\\.californiatimes\\.com\\/(caltimes\\/latimes\\/Bootstrap|modalityjs\\/latest)\\.js)",
+    "upd_version": "4.4.7.1"
+  },
+  "Neue Westfälische": {
+    "domain": "nw.de",
+    "allow_cookies": 1,
+    "ld_json": "div#paywall|div.article-detail-entry-content>div.nw-overflow-hidden",
+    "upd_version2": "4.4.7.8"
+  },
+  "Penske Media Corporation": {
+    "domain": "###_usa_penske_media",
+    "group": [
+      "billboard.com",
+      "rollingstone.com",
+      "sourcingjournal.com",
+      "sportico.com",
+      "variety.com",
+      "wwd.com"
+    ],
+    "allow_cookies": 1,
+    "block_regex": "\\.com\\/api\\/tinypass\\.min\\.js",
+    "upd_version": "4.4.7.7"
+  },
+  "Roularta Media Group (removed)": {
+    "domain": "###_be_roularta",
+    "group": [
+      "beleggersbelangen.nl",
+      "femmesdaujourdhui.be",
+      "flair.be",
+      "knack.be",
+      "kw.be",
+      "levif.be",
+      "libelle.be"
+    ],
+    "allow_cookies": 1,
+    "nofix": 1,
+    "upd_version": "4.4.6.7"
+  },
+  "The Columbian": {
+    "domain": "columbian.com",
+    "allow_cookies": 1,
+    "cs_block": 1,
+    "ld_archive_is": "div#inline-paywall|story",
+    "cs_code": "[{\"hide_elem\":\"div.modal,div[style*='linear-gradient']\"}]",
+    "upd_version": "4.4.7.3"
+  },
+  "The Daily Beast": {
+    "domain": "thedailybeast.com",
+    "remove_cookies_select_drop": ["blaize_session"],
+    "block_regex": "\\.thedailybeast\\.com\\/zephr",
+    "upd_version": "4.4.7.6"
+  },
+  "The Diplomat": {
+    "domain": "thediplomat.com",
+    "allow_cookies": 1,
+    "cs_dompurify": 1,
+    "cs_code": [{"cond":"aside#tda-gated-appendix", "rm_elem":1, "elems": [{"cond": "div#app_story_content", "rm_attrib":"style", "set_attrib":"class|td-prose"}, {"cond": "aside[hidden]", "rm_attrib":"hidden"}, {"hide_elem":"section#tda-gated-body"}]}],
+    "upd_version": "4.4.7.3"
+  },
+  "The Economist": {
+    "domain": "economist.com",
+    "allow_cookies": 1,
+    "block_regex": "(\\/zephr\\/feature|\\.economist\\.com\\/(latest\\/wall-ui|script)\\.js)",
+    "ld_archive_is": "div#tp-regwall|main",
+    "cs_code": [{"cond": "html,body", "set_attrib":"style|overflow: visible !important"}],
+    "upd_version": "4.4.7.2"
+  },
+  "The Independent": {
+    "domain": "###_uk_independent",
+    "group": [
+      "independent.co.uk",
+      "the-independent.com"
+    ],
+    "allow_cookies": 1,
+    "block_js_inline": "\\.(independent\\.co\\.uk|the-independent\\.com)\\/.+\\.html",
+    "cs_code": "[{\"hide_elem\":\"div.indy-paywall-banner\"}]",
+    "upd_version": "4.4.6.7"
+  },
+  "USA Today": {
+    "domain": "usatoday.com",
+    "allow_cookies": 1,
+    "ld_archive_is": "aside.gnt_rb|article",
+    "upd_version": "4.4.7.4"
+  }
+}

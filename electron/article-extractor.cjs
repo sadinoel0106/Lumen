@@ -1,0 +1,26 @@
+const fs=require('node:fs');
+// Executed in a separate world against a cloned document. Never rewrites the original page.
+function extractArticle(){
+ const source=document.cloneNode(true),warnings=[],cleanText=s=>String(s||'').replace(/\s+/g,' ').trim();
+ const excluded='nav,footer,aside,form,button,input,select,textarea,script,style,noscript,template,iframe,svg,[role="navigation"],[role="complementary"],[role="dialog"],[data-ad],[data-ad-slot],[data-ad-unit],[itemprop="advertisement"]';
+ const boiler=/(?:^|[\s_-])(ad|ads|advert|advertisement|advertising|newsletter|recirculation|related-articles|related-stories|related-content|recommended-articles|recommended-stories|recommended-reading|outbrain|taboola|social-share|share-tools|cookie-consent|subscription-promo)(?:$|[\s_-])/i;
+ let removed=0;for(const el of source.querySelectorAll(excluded)){if(el.closest('article')&&(el.tagName==='ASIDE'||el.getAttribute('role')==='complementary'||el.tagName==='FOOTER'&&/footnote|reference/i.test(el.className)))continue;el.remove();removed++;}for(const el of [...source.querySelectorAll('[class],[id],[data-testid]')]){const token=[el.id,el.getAttribute('class'),el.getAttribute('data-testid')].join(' ');if(boiler.test(token)&&!el.matches('article,[itemprop="articleBody"]')){el.remove();removed++;}}
+ const selectors=['[itemprop="articleBody"]','[data-component="article-body"]','[data-testid="article-body"]','.article-body','.article__body','.article-content','.article__content','.story-body','.story-content','.entry-content','.post-content','article','main'];
+ let area,method='结构化正文';for(const selector of selectors){const candidates=[...source.querySelectorAll(selector)].filter(el=>cleanText(el.textContent).length>40);if(candidates.length){area=candidates.sort((a,b)=>cleanText(b.textContent).length-cleanText(a.textContent).length)[0];if(!['article','main'].includes(selector)&&area.closest('article'))area=area.closest('article');break;}}
+ let parsed=null;try{parsed=new Readability(source.cloneNode(true),{charThreshold:80,keepClasses:true}).parse();}catch{}
+ if(!area&&parsed?.content){const holder=source.createElement('article');holder.innerHTML=parsed.content;area=holder;method='阅读模式正文';}
+ if(!area){area=source.body;method='保守正文候选';warnings.push('此页缺少明确正文结构，请对照原站核查。');}
+ const before=cleanText(area.textContent).length,paragraphs=[];
+ function push(text,tag){text=cleanText(text);if(!text)return;while(text.length>5500){let cut=text.lastIndexOf(' ',5500);if(cut<3500)cut=5500;paragraphs.push({text:text.slice(0,cut),tag,continued:true});text=text.slice(cut).trimStart();}if(text)paragraphs.push({text,tag});}
+ function walk(el){if(el.nodeType===3){return;}if(el.nodeType!==1)return;const tag=el.tagName.toLowerCase();if(['p','h1','h2','h3','h4','h5','h6','figcaption','dt','dd'].includes(tag)){push(el.textContent,tag);return;}if(['li','blockquote','td','th'].includes(tag)&&!el.querySelector('p,li,blockquote,table')){push(el.textContent,tag);return;}if(tag==='tr'){push([...el.children].map(c=>cleanText(c.textContent)).filter(Boolean).join(' | '),'table');return;}const meaningful=[...el.children].some(c=>/^(P|DIV|SECTION|ARTICLE|MAIN|H[1-6]|UL|OL|LI|BLOCKQUOTE|FIGURE|FIGCAPTION|TABLE|DL|DT|DD)$/.test(c.tagName));if(!meaningful&&cleanText(el.textContent)&&!['img','hr','br','video','audio','picture','source'].includes(tag)){push(el.textContent,tag==='div'?'p':tag);return;}let inline='';const flush=()=>{if(cleanText(inline))push(inline,'p');inline='';};for(const child of el.childNodes){if(child.nodeType===3){inline+=child.textContent;continue;}if(child.nodeType!==1)continue;if(/^(SPAN|A|EM|STRONG|B|I|SUP|SUB|SMALL|MARK|CODE|BR)$/.test(child.tagName)){inline+=child.textContent;continue;}flush();walk(child);}flush();}
+ walk(area);
+ const schemaTexts=[];for(const node of document.querySelectorAll('script[type="application/ld+json"]')){try{const stack=[JSON.parse(node.textContent)];while(stack.length){const obj=stack.pop();if(!obj||typeof obj!=='object')continue;if(typeof obj.articleBody==='string')schemaTexts.push(cleanText(obj.articleBody));for(const value of Object.values(obj))if(value&&typeof value==='object')stack.push(...(Array.isArray(value)?value:[value]));}}catch{}}
+ const chars=paragraphs.reduce((n,p)=>n+p.text.length,0),schemaLength=Math.max(0,...schemaTexts.map(t=>t.length));
+ if(schemaLength>chars*1.25&&schemaLength-chars>500)warnings.push('页面结构化正文比当前提取内容更长，可能尚未展开或未加载完成。');
+ const next=document.querySelector('link[rel="next"],a[rel="next"],a.next-page,a.article-next');if(next)warnings.push('原站存在下一页入口，本视图只包含当前已加载页面。');
+ if([...document.querySelectorAll('button,a')].some(el=>/^(continue reading|read more|read full article|show more|load more)$/i.test(cleanText(el.textContent))))warnings.push('原站可能存在展开或继续阅读内容，建议先展开后重新提取。');
+ if(!paragraphs.length)throw Error('未找到可提取正文，请继续在原站阅读。');
+ return {title:parsed?.title||document.title,url:location.href,paragraphs,truncated:false,extraction:{method,removed,paragraphs:paragraphs.length,characters:chars,candidateCharacters:before,warnings,scope:'当前页面已加载正文；没有段数或短句截断'}};
+}
+let code;function extractionCode(){if(!code)code=fs.readFileSync(require.resolve('@mozilla/readability/Readability.js'),'utf8')+'\n;('+extractArticle.toString()+')()';return code;}
+module.exports={extractionCode,extractArticle};

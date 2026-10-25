@@ -1,0 +1,74 @@
+{
+  "name": "lumen-reader",
+  "version": "1.0.6",
+  "description": "Lumen 观读 — 英文世界，读懂一点。",
+  "main": "electron/main.cjs",
+  "author": "Lumen",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadinoel0106/Lumen.git"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "electron .",
+    "prestart": "node scripts/ensure-electron.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "test:desktop": "node scripts/smoke.cjs",
+    "pretest:desktop": "node scripts/ensure-electron.cjs",
+    "feeds:check": "node scripts/check-feeds.cjs",
+    "dist": "node scripts/build.cjs",
+    "postinstall": "node scripts/prepare-reader-extension.cjs",
+    "extensions:prepare": "node scripts/prepare-reader-extension.cjs",
+    "electron:install": "node scripts/ensure-electron.cjs"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "linkedom": "^0.18.14",
+    "rss-parser": "3.13.0"
+  },
+  "devDependencies": {
+    "electron": "45.0.0",
+    "electron-builder": "26.15.3",
+    "playwright": "1.61.1"
+  },
+  "build": {
+    "appId": "studio.lumen.reader",
+    "productName": "Lumen",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "electron/**/*",
+      "ui/**/*",
+      "data/**/*",
+      "assets/**/*",
+      "LICENSE",
+      "THIRD_PARTY_NOTICES.md",
+      "package.json"
+    ],
+    "asar": true,
+    "extraResources": [
+      {
+        "from": "vendor/reader-extension",
+        "to": "reader-extension"
+      }
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico",
+      "signExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "artifactName": "Lumen-Setup-${version}.${ext}"
+    }
+  }
+}

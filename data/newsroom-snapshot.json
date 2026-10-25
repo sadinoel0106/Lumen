@@ -1,0 +1,5102 @@
+{
+  "updatedAt": 1792844522808,
+  "groups": [
+    {
+      "sourceId": "bbc",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "182d06e10d9c79d47d45",
+          "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+          "url": "https://www.bbc.com/news/articles/c39wz740e0nyo",
+          "sourceId": "bbc",
+          "source": "BBC News",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844468430
+        },
+        {
+          "id": "0b8c978ab358a11938ad",
+          "title": "French police arrest 135 people, says minister, as protests take place across country",
+          "url": "https://www.bbc.com/news/live/cq1j38x0n4zrt",
+          "sourceId": "bbc",
+          "source": "BBC News",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844468430
+        },
+        {
+          "id": "1b4a332517dd852fe694",
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "url": "https://www.bbc.com/news/articles/cwkg5md14j8go",
+          "sourceId": "bbc",
+          "source": "BBC News",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844468430
+        }
+      ],
+      "checkedAt": 1792844466253,
+      "fetchedAt": 1792844468430,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "guardian",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "1334f6710d601d802628",
+          "title": "Can Netanyahu pull off a win in Israel's election?",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+          "sourceId": "guardian",
+          "source": "The Guardian",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844468697
+        },
+        {
+          "id": "6379b60e232a12628839",
+          "title": "Derry Girls star on the power of being ‘a delicious fatty’",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast",
+          "sourceId": "guardian",
+          "source": "The Guardian",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844468697
+        },
+        {
+          "id": "beafdd839670392015a0",
+          "title": "‘We overstayed our welcome – the waiters shook the cutlery'",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/oct/24/blind-date-pardis-alexandrea",
+          "sourceId": "guardian",
+          "source": "The Guardian",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844468697
+        }
+      ],
+      "checkedAt": 1792844466260,
+      "fetchedAt": 1792844468697,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "reuters",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844466261,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 401"
+    },
+    {
+      "sourceId": "ap",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844466261,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "nyt",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "503ed0702b80bfb922c2",
+          "title": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
+          "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+          "sourceId": "nyt",
+          "source": "The New York Times",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 5,
+          "description": "About 70,000 police and security officers, mobilized ahead of mass protests, will try to avert the arson and looting that shocked the country last weekend.",
+          "publishedAt": 1792844119000,
+          "fetchedAt": 1792844469787
+        },
+        {
+          "id": "9c66549d620c1cb2fc48",
+          "title": "Israel Launches Crackdown in West Bank City After Deadly Attack",
+          "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+          "sourceId": "nyt",
+          "source": "The New York Times",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 5,
+          "description": "The military demolished buildings and erected roadblocks in Hebron, the biggest city in the territory, a day after Palestinian gunmen killed two soldiers.",
+          "publishedAt": 1792842855000,
+          "fetchedAt": 1792844469787
+        },
+        {
+          "id": "d68b65a12004e0491552",
+          "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+          "sourceId": "nyt",
+          "source": "The New York Times",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 5,
+          "description": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
+          "publishedAt": 1792840250000,
+          "fetchedAt": 1792844469787
+        }
+      ],
+      "checkedAt": 1792844466261,
+      "fetchedAt": 1792844469787,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "washpost",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "e7c98731781674c3b063",
+          "title": "Voters angry about high prices may get little relief from the next Congress",
+          "url": "https://www.washingtonpost.com/business/2026/10/24/voters-angry-about-high-prices-may-get-little-relief-next-congress/",
+          "sourceId": "washpost",
+          "source": "The Washington Post",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844469458
+        },
+        {
+          "id": "3edf7ac9ad60665459d7",
+          "title": "In remote Alaska, a family making $155K struggles to uphold traditional lifestyle",
+          "url": "https://www.washingtonpost.com/nation/2026/10/24/remote-alaska-family-making-155k-struggles-uphold-traditional-lifestyle/",
+          "sourceId": "washpost",
+          "source": "The Washington Post",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844469458
+        },
+        {
+          "id": "956527baca2fe2115d8a",
+          "title": "Jon Ossoff’s films exposed corruption. Then his colleague was murdered.",
+          "url": "https://www.washingtonpost.com/politics/2026/10/24/how-jon-ossoffs-documentary-career-shaped-his-anti-trump-message/",
+          "sourceId": "washpost",
+          "source": "The Washington Post",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844469458
+        }
+      ],
+      "checkedAt": 1792844466262,
+      "fetchedAt": 1792844469458,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "npr",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "68d5cc45d56fca083f6d",
+          "title": "Russia steps up election influence efforts in final stretch of midterms",
+          "url": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+          "sourceId": "npr",
+          "source": "NPR",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470413
+        },
+        {
+          "id": "25bf2dc6cadcc87e8d58",
+          "title": "Breakfast Around the World",
+          "url": "https://www.npr.org/series/g-s1-144110/breakfast-around-the-world",
+          "sourceId": "npr",
+          "source": "NPR",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470413
+        },
+        {
+          "id": "a011e28d54bf0939d03a",
+          "title": "A sweet breakfast of mamounieh in Syria invites stories from fellow diners",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5880425/a-sweet-breakfast-of-mamounieh-in-aleppo-invites-stories-from-fellow-diners",
+          "sourceId": "npr",
+          "source": "NPR",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470413
+        }
+      ],
+      "checkedAt": 1792844467774,
+      "fetchedAt": 1792844470414,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "aljazeera",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "05a49dd5f87f2f2e1def",
+          "title": "Hundreds of families displaced in Hebron amid ongoing Israeli army raids",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "category": "新闻",
+          "region": "卡塔尔",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470592
+        },
+        {
+          "id": "8d09991f7c101dd95d74",
+          "title": "France braces for another day of mass protests as security on high alert",
+          "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "category": "新闻",
+          "region": "卡塔尔",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470592
+        },
+        {
+          "id": "d927c69a71c519d9494f",
+          "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+          "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank",
+          "sourceId": "aljazeera",
+          "source": "Al Jazeera",
+          "category": "新闻",
+          "region": "卡塔尔",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470592
+        }
+      ],
+      "checkedAt": 1792844468046,
+      "fetchedAt": 1792844470592,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "dw",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "a34677c9e04a3237cf09",
+          "title": "France protests: Demonstrations resume with more violence feared",
+          "url": "https://www.dw.com/en/france-protests-police-paris/live-79748223",
+          "sourceId": "dw",
+          "source": "DW",
+          "category": "新闻",
+          "region": "德国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470786
+        },
+        {
+          "id": "1461c3f06f4588a82ea4",
+          "title": "Kim Jong Un travels to China via newly opened border bridge — reports",
+          "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580",
+          "sourceId": "dw",
+          "source": "DW",
+          "category": "新闻",
+          "region": "德国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470786
+        },
+        {
+          "id": "06c1e7a18139b9fbd5b8",
+          "title": "Typhoon Champi leaves 1 dead, more than 500 injured in Taiwan",
+          "url": "https://www.dw.com/en/typhoon-champi-taiwan/a-79748221",
+          "sourceId": "dw",
+          "source": "DW",
+          "category": "新闻",
+          "region": "德国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844470786
+        }
+      ],
+      "checkedAt": 1792844468430,
+      "fetchedAt": 1792844470786,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "france24",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "fda62057d1dabffa7b3d",
+          "title": "Live: French police seize weapons and arrest 135 people on the sidelines of new protests",
+          "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+          "sourceId": "france24",
+          "source": "France 24",
+          "category": "新闻",
+          "region": "法国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844471165
+        },
+        {
+          "id": "3a24490d1177ddab90bc",
+          "title": "France to deploy 70,000 police officers as students call for fresh protests Saturday",
+          "url": "https://www.france24.com/en/france/20261023-france-deploys-70-000-police-officers-as-students-call-for-fresh-protests",
+          "sourceId": "france24",
+          "source": "France 24",
+          "category": "新闻",
+          "region": "法国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844471165
+        },
+        {
+          "id": "cfffc232b5b99afbbca1",
+          "title": "Authorities in Lyon and Marseille ban all protests Saturday",
+          "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+          "sourceId": "france24",
+          "source": "France 24",
+          "category": "新闻",
+          "region": "法国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844471165
+        }
+      ],
+      "checkedAt": 1792844468698,
+      "fetchedAt": 1792844471165,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "lemonde",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "5c18335eb886e5891dbc",
+          "title": "2026 US midterm elections",
+          "url": "https://www.lemonde.fr/en/2026-midterms/",
+          "sourceId": "lemonde",
+          "source": "Le Monde in English",
+          "category": "新闻",
+          "region": "法国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844471923
+        },
+        {
+          "id": "2f57a7dc95a3e4d452fb",
+          "title": "2027 French presidential election",
+          "url": "https://www.lemonde.fr/en/2027-french-presidential-election/",
+          "sourceId": "lemonde",
+          "source": "Le Monde in English",
+          "category": "新闻",
+          "region": "法国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844471923
+        },
+        {
+          "id": "1ec8d3054d7b52147c9a",
+          "title": "Macron, weaker than ever, tries to call for 'unity and harmony' ahead of new protests",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/10/24/macron-weaker-than-ever-tries-to-call-for-unity-and-harmony-ahead-of-new-protests_6762901_5.html",
+          "sourceId": "lemonde",
+          "source": "Le Monde in English",
+          "category": "新闻",
+          "region": "法国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844471927
+        }
+      ],
+      "checkedAt": 1792844469459,
+      "fetchedAt": 1792844471927,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "abc",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "0078b61793e9d21ac185",
+          "title": "Elon Musk has a lot to lose at US midterms as pollsters tip blue wave",
+          "url": "https://www.abc.net.au/news/2026-10-24/elon-musk-us-midterm-elections-donald-trump-republicans/107298614",
+          "sourceId": "abc",
+          "source": "ABC Australia",
+          "category": "新闻",
+          "region": "澳大利亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474114
+        },
+        {
+          "id": "c3a85616b6424938cd48",
+          "title": "EBy Elissa Fitzgerald",
+          "url": "https://www.abc.net.au/news/elissa-fitzgerald/103913586",
+          "sourceId": "abc",
+          "source": "ABC Australia",
+          "category": "新闻",
+          "region": "澳大利亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474114
+        },
+        {
+          "id": "a802b91cb49e86198083",
+          "title": "An Israeli city once loyal to Netanyahu is now questioning his rule",
+          "url": "https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178",
+          "sourceId": "abc",
+          "source": "ABC Australia",
+          "category": "新闻",
+          "region": "澳大利亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474114
+        }
+      ],
+      "checkedAt": 1792844469787,
+      "fetchedAt": 1792844474114,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "cbc",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "c94775e9df376643ad88",
+          "title": "The Marineland belugas keep dying. Was it a mistake to move them?",
+          "url": "https://www.cbc.ca/news/canada/marineland-beluga-whale-deaths-9.7388635",
+          "sourceId": "cbc",
+          "source": "CBC News",
+          "category": "新闻",
+          "region": "加拿大",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844472765
+        },
+        {
+          "id": "b6ee43ce2d8ac914f4d4",
+          "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
+          "url": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215",
+          "sourceId": "cbc",
+          "source": "CBC News",
+          "category": "新闻",
+          "region": "加拿大",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844472765
+        },
+        {
+          "id": "cad599a06a1cd170b1bb",
+          "title": "The RDSP was meant to help disabled Canadians save for the future. Yet many don't know it exists",
+          "url": "https://www.cbc.ca/radio/rdsp-eligible-future-9.7379198",
+          "sourceId": "cbc",
+          "source": "CBC News",
+          "category": "新闻",
+          "region": "加拿大",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844472765
+        }
+      ],
+      "checkedAt": 1792844470414,
+      "fetchedAt": 1792844472765,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "cna",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "1442c80d342e39b6d537",
+          "title": "Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies",
+          "url": "https://www.channelnewsasia.com/singapore/indonesia-gas-singapore-supply-diversion-6488391",
+          "sourceId": "cna",
+          "source": "CNA",
+          "category": "新闻",
+          "region": "新加坡",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473108
+        },
+        {
+          "id": "21c58b4ab11c0c19bbca",
+          "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
+          "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-24-6488141",
+          "sourceId": "cna",
+          "source": "CNA",
+          "category": "新闻",
+          "region": "新加坡",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473108
+        },
+        {
+          "id": "f396b412f83905817ea8",
+          "title": "Three Singapore-registered companies say they will comply with NEA's haze notices",
+          "url": "https://www.channelnewsasia.com/singapore/nea-bumitama-agri-first-resources-wilmar-international-haze-6488716",
+          "sourceId": "cna",
+          "source": "CNA",
+          "category": "新闻",
+          "region": "新加坡",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473108
+        }
+      ],
+      "checkedAt": 1792844470593,
+      "fetchedAt": 1792844473108,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "scmp",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "d32fdd61a3cfce571e62",
+          "title": "Ukraine’s Starlink woes should be a wake-up call for Taiwan, analysts say",
+          "url": "https://www.scmp.com/news/china/military/article/3372016/ukraines-starlink-woes-should-be-wake-call-taiwan-analysts-say?module=top_story&pgtype=homepage",
+          "sourceId": "scmp",
+          "source": "South China Morning Post",
+          "category": "新闻",
+          "region": "中国香港",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473190
+        },
+        {
+          "id": "f95e934f94800934b20a",
+          "title": "Developing | North Korean leader Kim Jong-un visits Chinese border city of Dandong",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong?module=top_story&pgtype=homepage",
+          "sourceId": "scmp",
+          "source": "South China Morning Post",
+          "category": "新闻",
+          "region": "中国香港",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473190
+        },
+        {
+          "id": "f57bf5d85dbf1d816785",
+          "title": "Is Washington misreading Beijing? Decline in US visits to China sparks concern",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371535/washington-misreading-beijing-decline-us-visits-china-sparks-concern?module=top_story&pgtype=homepage",
+          "sourceId": "scmp",
+          "source": "South China Morning Post",
+          "category": "新闻",
+          "region": "中国香港",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473191
+        }
+      ],
+      "checkedAt": 1792844470786,
+      "fetchedAt": 1792844473191,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "japantimes",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "9f4c7b808356d363231c",
+          "title": "How to keep safe online in the wake of AI-supercharged hacking",
+          "url": "https://www.japantimes.co.jp/business/2026/10/23/tech/online-safety-ai-hacking/",
+          "sourceId": "japantimes",
+          "source": "The Japan Times",
+          "category": "新闻",
+          "region": "日本",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473596
+        },
+        {
+          "id": "620f0eb4417a5d2090e8",
+          "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+          "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/japan-cyberattack-simulation/",
+          "sourceId": "japantimes",
+          "source": "The Japan Times",
+          "category": "新闻",
+          "region": "日本",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473596
+        },
+        {
+          "id": "daab5ec38b5c5c0c2772",
+          "title": "What happens to your information after a data breach",
+          "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/crime-legal/cyberattacks-japan-response/",
+          "sourceId": "japantimes",
+          "source": "The Japan Times",
+          "category": "新闻",
+          "region": "日本",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844473596
+        }
+      ],
+      "checkedAt": 1792844471165,
+      "fetchedAt": 1792844473596,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "hindu",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "082adf9f1307b229f458",
+          "title": "Kolkata stampede: Death in the time of Durga Puja",
+          "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece",
+          "sourceId": "hindu",
+          "source": "The Hindu",
+          "category": "新闻",
+          "region": "印度",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474180
+        },
+        {
+          "id": "d8fe9db5d64b3991a263",
+          "title": "Why is ITBP overhauling its training and combat strategy along the China border? Explained",
+          "url": "https://www.thehindu.com/news/national/explainer-of-indo-tibetan-border-force/article71618963.ece",
+          "sourceId": "hindu",
+          "source": "The Hindu",
+          "category": "新闻",
+          "region": "印度",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474180
+        },
+        {
+          "id": "f9b5452c6cf0d2eda233",
+          "title": "El Clasico: Flick, Mourinho and the morbo of all morbos",
+          "url": "https://www.thehindu.com/sport/football/el-clasico-barcelona-vs-real-madrid-flick-mourinho/article71617569.ece",
+          "sourceId": "hindu",
+          "source": "The Hindu",
+          "category": "新闻",
+          "region": "印度",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474180
+        }
+      ],
+      "checkedAt": 1792844471927,
+      "fetchedAt": 1792844474180,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "dailymaverick",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "d12e59a3bc558d592608",
+          "title": "Check your municipality11Days toelections",
+          "url": "https://www.dailymaverick.co.za/page/elections-2026/",
+          "sourceId": "dailymaverick",
+          "source": "Daily Maverick",
+          "category": "新闻",
+          "region": "南非",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474934
+        },
+        {
+          "id": "8bb5a186ee53f6ca16bc",
+          "title": "SA’s Presidency website taken down as cybersecurity flaw sparks warnings across the world",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-23-sas-presidency-website-taken-down-as-cybersecurity-flaw-sparks-warnings-across-the-world/?dm_source=blocks-grid-wide&dm_medium=card-link&dm_campaign=inform&dm_position=1",
+          "sourceId": "dailymaverick",
+          "source": "Daily Maverick",
+          "category": "新闻",
+          "region": "南非",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474934
+        },
+        {
+          "id": "186d142a33a96a810d96",
+          "title": "Weather service sounds El Niño alarm for North-East, including Kruger Park",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-23-weather-service-sounds-el-nino-alarm-for-north-east-including-kruger-park/?dm_source=blocks-list-item&dm_medium=card-link&dm_campaign=inform&dm_position=2",
+          "sourceId": "dailymaverick",
+          "source": "Daily Maverick",
+          "category": "新闻",
+          "region": "南非",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844474934
+        }
+      ],
+      "checkedAt": 1792844472765,
+      "fetchedAt": 1792844474934,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "ft",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "7a8e230b8458b550a544",
+          "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+          "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+          "sourceId": "ft",
+          "source": "Financial Times",
+          "category": "商业",
+          "region": "英国",
+          "reach": 5,
+          "description": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
+          "publishedAt": 1792801340000,
+          "fetchedAt": 1792844478038
+        },
+        {
+          "id": "ff6cfe8e13a15fa03824",
+          "title": "France is looking ungovernable. And it’s going to get worse",
+          "url": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
+          "sourceId": "ft",
+          "source": "Financial Times",
+          "category": "商业",
+          "region": "英国",
+          "reach": 5,
+          "description": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
+          "publishedAt": 1792814423000,
+          "fetchedAt": 1792844478038
+        },
+        {
+          "id": "f08bdd7db1379a118079",
+          "title": "The young are conformists in denial",
+          "url": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
+          "sourceId": "ft",
+          "source": "Financial Times",
+          "category": "商业",
+          "region": "英国",
+          "reach": 5,
+          "description": "The reassuringly bourgeois values behind a rebellious generation",
+          "publishedAt": 1792814423000,
+          "fetchedAt": 1792844478038
+        }
+      ],
+      "checkedAt": 1792844473108,
+      "fetchedAt": 1792844478038,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "economist",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "6669a6949e313868c53c",
+          "title": "Cover Story newsletter: The agony of liberal Europe",
+          "url": "https://www.economist.com/the-world-this-week/2026/10/24/cover-story-newsletter-the-agony-of-liberal-europe",
+          "sourceId": "economist",
+          "source": "The Economist",
+          "category": "商业",
+          "region": "英国",
+          "reach": 5,
+          "description": "An exclusive look at how we designed our cover",
+          "publishedAt": 1792839181000,
+          "fetchedAt": 1792844476621
+        },
+        {
+          "id": "4a7632c37a8e542fec9a",
+          "title": "Business",
+          "url": "https://www.economist.com/the-world-this-week/2026/10/22/business",
+          "sourceId": "economist",
+          "source": "The Economist",
+          "category": "商业",
+          "region": "英国",
+          "reach": 5,
+          "description": "The world this week",
+          "publishedAt": 1792673965000,
+          "fetchedAt": 1792844476621
+        },
+        {
+          "id": "6acdb4eb93ea68e50c23",
+          "title": "Politics",
+          "url": "https://www.economist.com/the-world-this-week/2026/10/22/politics",
+          "sourceId": "economist",
+          "source": "The Economist",
+          "category": "商业",
+          "region": "英国",
+          "reach": 5,
+          "description": "The world this week",
+          "publishedAt": 1792673965000,
+          "fetchedAt": 1792844476621
+        }
+      ],
+      "checkedAt": 1792844473191,
+      "fetchedAt": 1792844476621,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "bloomberg",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844473596,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "页面过大"
+    },
+    {
+      "sourceId": "wsj",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "07f701c73fe3ea2dd452",
+          "title": "France Girds for Another Day of Protest After Widespread Violence",
+          "url": "https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews",
+          "sourceId": "wsj",
+          "source": "The Wall Street Journal",
+          "category": "商业",
+          "region": "美国",
+          "reach": 5,
+          "description": "The protests pose a fresh test for President Emmanuel Macron, who has come under fire during the violence from both sides of the political spectrum.",
+          "publishedAt": 1792837500000,
+          "fetchedAt": 1792844477488
+        },
+        {
+          "id": "fda36eeb1c428fe7d3b4",
+          "title": "Aboard USS George Washington as It Rearms for Possible Iran Strikes",
+          "url": "https://www.wsj.com/politics/national-security/aboard-uss-george-washington-as-it-rearms-for-possible-iran-strikes-afaadff2?mod=rss_worldnews",
+          "sourceId": "wsj",
+          "source": "The Wall Street Journal",
+          "category": "商业",
+          "region": "美国",
+          "reach": 5,
+          "description": "Watch as sailors in the USS George Washington strike group prepare for a possible escalation in fighting on the front lines of the Iran war.",
+          "publishedAt": 1792834320000,
+          "fetchedAt": 1792844477488
+        },
+        {
+          "id": "8f118a72d14f13756ad8",
+          "title": "Ukraine’s Military Starlink Is Working Again, Kyiv Says",
+          "url": "https://www.wsj.com/world/europe/ukraines-military-starlink-is-working-again-kyiv-says-7ad2617d?mod=rss_worldnews",
+          "sourceId": "wsj",
+          "source": "The Wall Street Journal",
+          "category": "商业",
+          "region": "美国",
+          "reach": 5,
+          "description": "Speed restrictions imposed by Elon Musk’s SpaceX have hampered Ukraine’s drone forces since Oct. 14.",
+          "publishedAt": 1792831020000,
+          "fetchedAt": 1792844477488
+        }
+      ],
+      "checkedAt": 1792844474114,
+      "fetchedAt": 1792844477488,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "hbr",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "17af977f3246b6eb29d6",
+          "title": "The C-Suite Behaviors That Stall AI Transformations",
+          "url": "https://hbr.org/2026/10/the-c-suite-behaviors-that-stall-ai-transformations?ab=HP-hero-featured-1",
+          "sourceId": "hbr",
+          "source": "Harvard Business Review",
+          "category": "商业",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844476372
+        },
+        {
+          "id": "7e73744320eb9ee555bb",
+          "title": "Don’t Cling to Your Old Job After Being Promoted",
+          "url": "https://hbr.org/2025/10/dont-cling-to-your-old-job-after-being-promoted?ab=HP-hero-for-you-1",
+          "sourceId": "hbr",
+          "source": "Harvard Business Review",
+          "category": "商业",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844476372
+        },
+        {
+          "id": "ffc99925b8a65bd7465a",
+          "title": "Bob Iger on Power, Succession, and Leading Disney Through Upheaval",
+          "url": "https://hbr.org/2026/09/bob-iger-on-power-succession-and-leading-disney-through-upheaval?ab=HP-hero-for-you-2",
+          "sourceId": "hbr",
+          "source": "Harvard Business Review",
+          "category": "商业",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844476372
+        }
+      ],
+      "checkedAt": 1792844474180,
+      "fetchedAt": 1792844476372,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "imf",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844474934,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "worldbank",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "40362176f94722dc5916",
+          "title": "World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+          "sourceId": "worldbank",
+          "source": "World Bank",
+          "category": "商业",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479192
+        },
+        {
+          "id": "e57dc30439ef0e455a76",
+          "title": "UAE Signs Agreement to Host 2029 World Bank Group and IMF Annual Meetings in Abu Dhabi",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/10/18/uae-signs-agreement-to-host-2029-world-bank-group-annual-meetings",
+          "sourceId": "worldbank",
+          "source": "World Bank",
+          "category": "商业",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479192
+        },
+        {
+          "id": "e5cbf2b87a65fe88fed2",
+          "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
+          "url": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
+          "sourceId": "worldbank",
+          "source": "World Bank",
+          "category": "商业",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479192
+        }
+      ],
+      "checkedAt": 1792844476143,
+      "fetchedAt": 1792844479192,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "oecd",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844476372,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "mittr",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "168baa033f8fbb278ddc",
+          "title": "10 Breakthrough Technologies",
+          "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+          "sourceId": "mittr",
+          "source": "MIT Technology Review",
+          "category": "科技",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479107
+        },
+        {
+          "id": "d7f9dafe0b002b49ecb8",
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "sourceId": "mittr",
+          "source": "MIT Technology Review",
+          "category": "科技",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479107
+        },
+        {
+          "id": "4358bdc30feac7aa2578",
+          "title": "In the biotech world, you can’t see everything",
+          "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "sourceId": "mittr",
+          "source": "MIT Technology Review",
+          "category": "科技",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479108
+        }
+      ],
+      "checkedAt": 1792844476621,
+      "fetchedAt": 1792844479108,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "wired",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "cc8e1455e2bf43e3e159",
+          "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+          "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+          "sourceId": "wired",
+          "source": "WIRED",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479209
+        },
+        {
+          "id": "59940c1798ae5ab25f91",
+          "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
+          "url": "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/",
+          "sourceId": "wired",
+          "source": "WIRED",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479209
+        },
+        {
+          "id": "98d47784ca171fd55fec",
+          "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+          "sourceId": "wired",
+          "source": "WIRED",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479209
+        }
+      ],
+      "checkedAt": 1792844476626,
+      "fetchedAt": 1792844479209,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "verge",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "24c8b8c3e7a4bc871c84",
+          "title": "Elon Musk’s dangerous grip on outer space",
+          "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+          "sourceId": "verge",
+          "source": "The Verge",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479677
+        },
+        {
+          "id": "d690f00a2af6682a31a1",
+          "title": "People are vibe coding their way to better TVs",
+          "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "sourceId": "verge",
+          "source": "The Verge",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479677
+        },
+        {
+          "id": "b942f0399e0eb8dfc4f7",
+          "title": "No, the iPhone Duo isn’t a small phone",
+          "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+          "sourceId": "verge",
+          "source": "The Verge",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844479677
+        }
+      ],
+      "checkedAt": 1792844477488,
+      "fetchedAt": 1792844479677,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "ars",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "ffc94a359f67275e70f0",
+          "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+          "sourceId": "ars",
+          "source": "Ars Technica",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844480310
+        },
+        {
+          "id": "28a3ac1f48449efd79c1",
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "sourceId": "ars",
+          "source": "Ars Technica",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844480311
+        },
+        {
+          "id": "bc0ee4ef9353aebda555",
+          "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+          "sourceId": "ars",
+          "source": "Ars Technica",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844480311
+        }
+      ],
+      "checkedAt": 1792844477906,
+      "fetchedAt": 1792844480311,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "ieee",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "0fa71fcc03f57574cda3",
+          "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+          "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+          "sourceId": "ieee",
+          "source": "IEEE Spectrum",
+          "category": "科技",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844480478
+        },
+        {
+          "id": "141959b82f2cdf27b307",
+          "title": "Electric Seagliders Promise Faster Coastal Travel by 2028",
+          "url": "https://spectrum.ieee.org/ground-effect-vehicle",
+          "sourceId": "ieee",
+          "source": "IEEE Spectrum",
+          "category": "科技",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844480478
+        },
+        {
+          "id": "fe3eb94d922b728fcc03",
+          "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+          "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+          "sourceId": "ieee",
+          "source": "IEEE Spectrum",
+          "category": "科技",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844480478
+        }
+      ],
+      "checkedAt": 1792844478038,
+      "fetchedAt": 1792844480478,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "techcrunch",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "dfe5fb536ca517ba2b1e",
+          "title": "OpenAI says it will no longer train AI models on the live internet",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "sourceId": "techcrunch",
+          "source": "TechCrunch",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844481442
+        },
+        {
+          "id": "739797ca19c060e4a9ba",
+          "title": "Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "sourceId": "techcrunch",
+          "source": "TechCrunch",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844481442
+        },
+        {
+          "id": "6f6451b374ed58f7d87c",
+          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+          "sourceId": "techcrunch",
+          "source": "TechCrunch",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844481442
+        }
+      ],
+      "checkedAt": 1792844479108,
+      "fetchedAt": 1792844481442,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "nature",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "318cb364a45872a221b6",
+          "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+          "url": "https://www.nature.com/articles/s41586-026-11303-y",
+          "sourceId": "nature",
+          "source": "Nature",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": 1792713600000,
+          "fetchedAt": 1792844485053
+        },
+        {
+          "id": "be776e7f1fa68d35f40a",
+          "title": "Elusive snow leopards and evasive particles: Books in brief",
+          "url": "https://www.nature.com/articles/d41586-026-03395-3",
+          "sourceId": "nature",
+          "source": "Nature",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": 1792713600000,
+          "fetchedAt": 1792844485053
+        },
+        {
+          "id": "398ee8e18078fe81b0b4",
+          "title": "Sleep declines in rural communities after electricity arrives",
+          "url": "https://www.nature.com/articles/d41586-026-03318-2",
+          "sourceId": "nature",
+          "source": "Nature",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": 1792713600000,
+          "fetchedAt": 1792844485053
+        }
+      ],
+      "checkedAt": 1792844479192,
+      "fetchedAt": 1792844485053,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "science",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "867e63e03cf08f0cff03",
+          "title": "Stash of hundreds of human teeth reveal surprising Maya burial practice",
+          "url": "https://www.science.org/content/article/stash-hundreds-human-teeth-reveal-surprising-maya-burial-practice",
+          "sourceId": "science",
+          "source": "Science",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "Ancient DNA connects teeth in a cave offering to people buried in faraway elite tombs",
+          "publishedAt": 1792731300000,
+          "fetchedAt": 1792844482196
+        },
+        {
+          "id": "b67047e281150c6ed5f3",
+          "title": "The first dinos that only ate fruit munched like parrots",
+          "url": "https://www.science.org/content/article/first-dinos-only-ate-fruit-munched-parrots",
+          "sourceId": "science",
+          "source": "Science",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "Toothless, turkey-size oddity may have evolved alongside the emergence of flowering plants",
+          "publishedAt": 1792729800000,
+          "fetchedAt": 1792844482197
+        },
+        {
+          "id": "403611d373f75753503e",
+          "title": "Kennedy to select MAHA-aligned researcher to head mental health institute, overruling NIH director",
+          "url": "https://www.science.org/content/article/kennedy-select-maha-aligned-researcher-head-mental-health-institute-overruling-nih",
+          "sourceId": "science",
+          "source": "Science",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "Health secretary wants a leader of “metabolic psychiatry” movement to direct $2.2 billion agency",
+          "publishedAt": 1792722720000,
+          "fetchedAt": 1792844482197
+        }
+      ],
+      "checkedAt": 1792844479209,
+      "fetchedAt": 1792844482197,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "sciam",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "3f2f3b5f7e1e786a51c5",
+          "title": "Read the November Issue: Social Media Addiction",
+          "url": "https://www.scientificamerican.com/issue/sa/2026/11-01/?utm_source=website&utm_medium=internal_promo&utm_campaign=homepage_banner&utm_content=nov_issue2026",
+          "sourceId": "sciam",
+          "source": "Scientific American",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844482043
+        },
+        {
+          "id": "b0ef239a514c2747fd7c",
+          "title": "NASA lays out a packed 14-day schedule for Artemis III",
+          "url": "https://www.scientificamerican.com/article/nasa-lays-out-a-packed-14-day-schedule-for-2027s-artemis-iii-moon-mission/",
+          "sourceId": "sciam",
+          "source": "Scientific American",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844482043
+        },
+        {
+          "id": "a35b1662545bb65d6e96",
+          "title": "Meet the original 'Ghost Busters'—the 17th century scientists who investigated hauntings",
+          "url": "https://www.scientificamerican.com/article/meet-the-original-ghost-busters-the-17th-century-scientists-who-investigated-hauntings/",
+          "sourceId": "sciam",
+          "source": "Scientific American",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844482043
+        }
+      ],
+      "checkedAt": 1792844479677,
+      "fetchedAt": 1792844482043,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "quanta",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "31c01edb18230974a5b6",
+          "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+          "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+          "sourceId": "quanta",
+          "source": "Quanta Magazine",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486787
+        },
+        {
+          "id": "e7d56fe1c291ffe23619",
+          "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+          "url": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+          "sourceId": "quanta",
+          "source": "Quanta Magazine",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486788
+        },
+        {
+          "id": "7c74d9bb4dbbaca7d0e2",
+          "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+          "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+          "sourceId": "quanta",
+          "source": "Quanta Magazine",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486788
+        }
+      ],
+      "checkedAt": 1792844480311,
+      "fetchedAt": 1792844486788,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "mit",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "fdc20ea52465c3b8b5c4",
+          "title": "Persistence, teamwork, and some healthy competition",
+          "url": "https://news.mit.edu/2026/persistence-teamwork-healthy-competition-veronica-calzadilla-sosa-1023",
+          "sourceId": "mit",
+          "source": "MIT News",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844482526
+        },
+        {
+          "id": "303db39c14fcfc30a17e",
+          "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+          "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+          "sourceId": "mit",
+          "source": "MIT News",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844482526
+        },
+        {
+          "id": "000b68dcd1349dc11835",
+          "title": "Q&A: How AI came to model the “messy” human mind",
+          "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+          "sourceId": "mit",
+          "source": "MIT News",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844482526
+        }
+      ],
+      "checkedAt": 1792844480478,
+      "fetchedAt": 1792844482526,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "harvard",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "2176abb2ca01b44edddb",
+          "title": "Parting words from a scholar who stepped up",
+          "url": "https://news.harvard.edu/gazette/story/2026/10/parting-words-from-a-scholar-who-stepped-up/",
+          "sourceId": "harvard",
+          "source": "Harvard Gazette",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844483416
+        },
+        {
+          "id": "480c6b63d500316fc203",
+          "title": "‘The bulk of the benefit and the threat is actually humans’",
+          "url": "https://news.harvard.edu/gazette/story/2026/10/the-bulk-of-the-benefit-and-the-threat-is-actually-humans/",
+          "sourceId": "harvard",
+          "source": "Harvard Gazette",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844483416
+        },
+        {
+          "id": "e089c0559f438cd99ac1",
+          "title": "Should parents be wary of Silicon Valley’s influence in schools?",
+          "url": "https://news.harvard.edu/gazette/story/2026/10/should-parents-be-wary-of-silicon-valleys-influence-in-schools/",
+          "sourceId": "harvard",
+          "source": "Harvard Gazette",
+          "category": "学术",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844483417
+        }
+      ],
+      "checkedAt": 1792844481442,
+      "fetchedAt": 1792844483417,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "stanford",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844482043,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "oxford",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844482197,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "cambridge",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "1bdb596ebbc3684cdc86",
+          "title": "Brazil's presidential elections linked to decades of fluctuating environmental destruction – study",
+          "url": "https://www.cam.ac.uk/research/news/brazils-presidential-elections-linked-to-decades-of-fluctuating-environmental-destruction-study",
+          "sourceId": "cambridge",
+          "source": "University of Cambridge",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844484694
+        },
+        {
+          "id": "6d08e133939bdd769cd1",
+          "title": "Winter sea ice loss may be underestimated, according to ancient clues from a warmer Arctic",
+          "url": "https://www.cam.ac.uk/research/news/winter-sea-ice-loss-may-be-underestimated-according-to-ancient-clues-from-a-warmer-arctic",
+          "sourceId": "cambridge",
+          "source": "University of Cambridge",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844484694
+        },
+        {
+          "id": "3d4d790029f46a9614aa",
+          "title": "Children and young people broadly support health data research – but want safeguards",
+          "url": "https://www.cam.ac.uk/research/news/children-and-young-people-broadly-support-health-data-research-but-want-safeguards",
+          "sourceId": "cambridge",
+          "source": "University of Cambridge",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844484694
+        }
+      ],
+      "checkedAt": 1792844482527,
+      "fetchedAt": 1792844484694,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "arxiv",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844483417,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "首页需要动态加载或未找到文章入口"
+    },
+    {
+      "sourceId": "pnas",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844483609,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "royalsociety",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "34101c1f21a2b0cc9e84",
+          "title": "Leading scientists answer the vaccine questions people are searching for as childhood uptake remains below target",
+          "url": "https://royalsociety.org/news/2026/10/leading-scientists-answer-the-vaccine-questions-people-are-searching-for/",
+          "sourceId": "royalsociety",
+          "source": "The Royal Society",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486234
+        },
+        {
+          "id": "36fb41d9fab17b4ddbf8",
+          "title": "‘Dazzling’ globetrotting adventure in history of alchemy wins 2026 Royal Society Trivedi Science Book Prize",
+          "url": "https://royalsociety.org/news/2026/09/science-book-prize-winner-2026/",
+          "sourceId": "royalsociety",
+          "source": "The Royal Society",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486234
+        },
+        {
+          "id": "ca1bb6e2ad73924f5841",
+          "title": "Russian attack on Ukrainian Academy of Sciences",
+          "url": "https://royalsociety.org/news/2026/09/russian-attack-on-ukrainian-academy-of-sciences/",
+          "sourceId": "royalsociety",
+          "source": "The Royal Society",
+          "category": "学术",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486234
+        }
+      ],
+      "checkedAt": 1792844483704,
+      "fetchedAt": 1792844486234,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "conversation",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "208cb0d8fd2b639eaf3c",
+          "title": "Brazil’s election puts at risk country’s role as a bulwark against Trump interventionism in the Americas",
+          "url": "https://theconversation.com/brazils-election-puts-at-risk-countrys-role-as-a-bulwark-against-trump-interventionism-in-the-americas-295037",
+          "sourceId": "conversation",
+          "source": "The Conversation",
+          "category": "社会",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486770
+        },
+        {
+          "id": "bb6381fe610860bf159d",
+          "title": "Palestinian citizens face a painful choice in Israel’s election: To vote or not",
+          "url": "https://theconversation.com/palestinian-citizens-face-a-painful-choice-in-israels-election-to-vote-or-not-294000",
+          "sourceId": "conversation",
+          "source": "The Conversation",
+          "category": "社会",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486771
+        },
+        {
+          "id": "e2036069c01ec2d3f348",
+          "title": "Youth protests across Europe: the overlapping crises facing Gen Z",
+          "url": "https://theconversation.com/youth-protests-across-europe-the-overlapping-crises-facing-gen-z-294754",
+          "sourceId": "conversation",
+          "source": "The Conversation",
+          "category": "社会",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844486771
+        }
+      ],
+      "checkedAt": 1792844484694,
+      "fetchedAt": 1792844486771,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "pew",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "3079e264ce91089b84b4",
+          "title": "Broad Public Confidence in Elections in the U.S. – but Partisans Differ Over Concerns About Access, Security",
+          "url": "https://www.pewresearch.org/politics/2026/10/20/broad-public-confidence-in-elections-in-the-u-s-but-partisans-differ-over-concerns-about-access-security/",
+          "sourceId": "pew",
+          "source": "Pew Research Center",
+          "category": "社会",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844487220
+        },
+        {
+          "id": "08836dc5f6c32a2e0f0c",
+          "title": "Quiz: What Is Your Civic Personality?",
+          "url": "https://www.pewresearch.org/journalism/quiz/what-is-your-civic-personality/",
+          "sourceId": "pew",
+          "source": "Pew Research Center",
+          "category": "社会",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844487220
+        },
+        {
+          "id": "da423868eacbc613e173",
+          "title": "Women, Work and Caregiving Through the Arc of Family Life",
+          "url": "https://www.pewresearch.org/social-trends/2026/10/22/women-work-and-caregiving-through-the-arc-of-family-life/",
+          "sourceId": "pew",
+          "source": "Pew Research Center",
+          "category": "社会",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844487220
+        }
+      ],
+      "checkedAt": 1792844485053,
+      "fetchedAt": 1792844487220,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "owid",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "c6945809f257db9c0ee2",
+          "title": "When do people experience mental health conditions for the first time?",
+          "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+          "sourceId": "owid",
+          "source": "Our World in Data",
+          "category": "社会",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844487194
+        },
+        {
+          "id": "40c380277f788ae2067f",
+          "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
+          "url": "https://ourworldindata.org/2026-lpi-update",
+          "sourceId": "owid",
+          "source": "Our World in Data",
+          "category": "社会",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844487194
+        },
+        {
+          "id": "26cf12ee359e62f68a8b",
+          "title": "For many of us, it doesn’t cost much to improve someone’s life, and we can do much more of it",
+          "url": "https://ourworldindata.org/foreign-aid-donations-increase",
+          "sourceId": "owid",
+          "source": "Our World in Data",
+          "category": "社会",
+          "region": "英国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844487194
+        }
+      ],
+      "checkedAt": 1792844485131,
+      "fetchedAt": 1792844487194,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "brookings",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "c4e0dafe42eff5d3718e",
+          "title": "The midterm effect: What the 2026 election could mean for public policy",
+          "url": "https://www.brookings.edu/articles/the-midterm-effect-what-the-2026-election-could-mean-for-public-policy/",
+          "sourceId": "brookings",
+          "source": "Brookings",
+          "category": "社会",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844488278
+        },
+        {
+          "id": "6ada9c33e27d5c15372b",
+          "title": "A snapshot of America’s schools: Trends and global comparisons",
+          "url": "https://www.brookings.edu/articles/a-snapshot-of-americas-schools-trends-and-global-comparisons/",
+          "sourceId": "brookings",
+          "source": "Brookings",
+          "category": "社会",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844488278
+        },
+        {
+          "id": "f19c2c19c4012def1bfe",
+          "title": "Please Discuss … the pressures shaping the 2026 midterms",
+          "url": "https://www.brookings.edu/articles/please-discuss-the-pressures-shaping-the-2026-midterms/",
+          "sourceId": "brookings",
+          "source": "Brookings",
+          "category": "社会",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844488278
+        }
+      ],
+      "checkedAt": 1792844486234,
+      "fetchedAt": 1792844488278,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "unesco",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "5197a2f13709c5235a38",
+          "title": "UNESCO is helping to build trust between journalists and security personnel in South Sudan",
+          "url": "https://www.unesco.org/en/articles/unesco-helping-build-trust-between-journalists-and-security-personnel-south-sudan",
+          "sourceId": "unesco",
+          "source": "UNESCO",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844489346
+        },
+        {
+          "id": "daee9b524d18929a0d1c",
+          "title": "How Communities in Southern Africa Are Keeping Living Heritage Alive through education",
+          "url": "https://www.unesco.org/en/articles/how-communities-southern-africa-are-keeping-living-heritage-alive-through-education",
+          "sourceId": "unesco",
+          "source": "UNESCO",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844489346
+        },
+        {
+          "id": "8a5e45e256b4e7fd9e46",
+          "title": "Learning to see what has always been there: As-Salt residents document their own living heritage",
+          "url": "https://www.unesco.org/en/articles/learning-see-what-has-always-been-there-salt-residents-document-their-own-living-heritage",
+          "sourceId": "unesco",
+          "source": "UNESCO",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844489346
+        }
+      ],
+      "checkedAt": 1792844486771,
+      "fetchedAt": 1792844489346,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "un",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "565fe890ed7c78692f6d",
+          "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+          "url": "https://news.un.org/en/story/2026/10/1168660",
+          "sourceId": "un",
+          "source": "UN News",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844488582
+        },
+        {
+          "id": "bcbcae62ba0a74ee755a",
+          "title": "UN marks 81 years of global cooperation",
+          "url": "https://news.un.org/en/story/2026/10/1168665",
+          "sourceId": "un",
+          "source": "UN News",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844488582
+        },
+        {
+          "id": "fe6539977365c07c8a95",
+          "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+          "url": "https://news.un.org/en/story/2026/10/1168664",
+          "sourceId": "un",
+          "source": "UN News",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844488582
+        }
+      ],
+      "checkedAt": 1792844486788,
+      "fetchedAt": 1792844488582,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "aeon",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "b04ecba47b918a458189",
+          "title": "Traction!",
+          "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+          "sourceId": "aeon",
+          "source": "Aeon",
+          "category": "人文",
+          "region": "英国",
+          "reach": 4,
+          "description": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on Aeon",
+          "publishedAt": 1792749600000,
+          "fetchedAt": 1792844489443
+        },
+        {
+          "id": "e0d362212be88ca55507",
+          "title": "Bhutan: the last place",
+          "url": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
+          "sourceId": "aeon",
+          "source": "Aeon",
+          "category": "人文",
+          "region": "英国",
+          "reach": 4,
+          "description": "What happened when people in Bhutan, the last country on Earth without television, were allowed to watch it in 1999? - by Aeon Video Watch on Aeon",
+          "publishedAt": 1792663260000,
+          "fetchedAt": 1792844489444
+        },
+        {
+          "id": "a800169a73b241780621",
+          "title": "Other people",
+          "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
+          "sourceId": "aeon",
+          "source": "Aeon",
+          "category": "人文",
+          "region": "英国",
+          "reach": 4,
+          "description": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on Aeon",
+          "publishedAt": 1792663200000,
+          "fetchedAt": 1792844489444
+        }
+      ],
+      "checkedAt": 1792844487086,
+      "fetchedAt": 1792844489444,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "atlantic",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "87a40c332f9098ee8468",
+          "title": "AI Terrorism Is Just Terrorism",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed",
+          "sourceId": "atlantic",
+          "source": "The Atlantic",
+          "category": "人文",
+          "region": "美国",
+          "reach": 5,
+          "description": "The War on Terror coincided with the rise of the internet, when freshly concerning digital attacks became known as cyberterrorism. Now a new threat has appeared: AI terrorism. Over the past few years, reports from governments, intergovernmental organizations, and think tanks have warned that AI is likely to fuel terrorist activity, demanding preparation and ",
+          "publishedAt": 1792843200000,
+          "fetchedAt": 1792844492772
+        },
+        {
+          "id": "4377a171dcb7fd0d816d",
+          "title": "A Very Suspicious Indictment of Two Former FBI Officials",
+          "url": "https://www.theatlantic.com/ideas/2026/10/fbi-indictments/689138/?utm_source=feed",
+          "sourceId": "atlantic",
+          "source": "The Atlantic",
+          "category": "人文",
+          "region": "美国",
+          "reach": 5,
+          "description": "Not too long ago, the Department of Justice could generally be trusted to prosecute cases in which lawyers believed that real wrongdoing had occurred. Now DOJ frequently unveils lawsuits that seem designed mostly for securing likes and reposts on right-wing social media—the actual facts be damned. Any high-profile criminal case brought by the Trump administr",
+          "publishedAt": 1792803685000,
+          "fetchedAt": 1792844492772
+        },
+        {
+          "id": "f668505c8b6ee518df08",
+          "title": "The GOP’s Midterms-Money Advantage Has Its Limits",
+          "url": "https://www.theatlantic.com/newsletters/2026/10/midterm-fundraising-republican-money-advantages/689136/?utm_source=feed",
+          "sourceId": "atlantic",
+          "source": "The Atlantic",
+          "category": "人文",
+          "region": "美国",
+          "reach": 5,
+          "description": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. American politics is saturated with cash, and each election cycle seems to set new spending records—and yet, with the midterms in the home stretch, neither party ",
+          "publishedAt": 1792784700000,
+          "fetchedAt": 1792844492772
+        }
+      ],
+      "checkedAt": 1792844487194,
+      "fetchedAt": 1792844492772,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "newyorker",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "fde63ee17ab4f24ea4a5",
+          "title": "Gina Hinojosa’s Populism for Democrats",
+          "url": "https://www.newyorker.com/news/the-lede/gina-hinojosas-populism-for-democrats",
+          "sourceId": "newyorker",
+          "source": "The New Yorker",
+          "category": "人文",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844489901
+        },
+        {
+          "id": "a39f8ae87721c1649de7",
+          "title": "How Macron Destabilized France",
+          "url": "https://www.newyorker.com/news/q-and-a/how-macron-destabilized-france",
+          "sourceId": "newyorker",
+          "source": "The New Yorker",
+          "category": "人文",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844489901
+        },
+        {
+          "id": "0f8cae2b64abbc9319b3",
+          "title": "For Bob Iger, That’s the Way It Is",
+          "url": "https://www.newyorker.com/magazine/2026/11/02/for-bob-iger-thats-the-way-it-is",
+          "sourceId": "newyorker",
+          "source": "The New Yorker",
+          "category": "人文",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844489901
+        }
+      ],
+      "checkedAt": 1792844487220,
+      "fetchedAt": 1792844489901,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "smithsonian",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "d694338669c1a6d03b90",
+          "title": "A Team of Astronomers Thinks They Have Identified the Exact Night Sky That Inspired Vincent van Gogh's 'Starry Night.' Not Everyone Is Convinced",
+          "url": "https://www.smithsonianmag.com/smart-news/a-team-of-astronomers-thinks-they-have-identified-the-exact-night-sky-that-inspired-vincent-van-gogh-starry-Night-not-everyone-is-convinced-180989744/",
+          "sourceId": "smithsonian",
+          "source": "Smithsonian Magazine",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "Very few night skies seen from the south of France during the summer of 1889 would match the scene on van Gogh's canvas. A new study argues that it could have been July 22",
+          "publishedAt": 1792788108000,
+          "fetchedAt": 1792844491560
+        },
+        {
+          "id": "ba1d2c61051311e65699",
+          "title": "For the First Time, Scientists Trapped an Elusive Antimatter Particle—and Contained It for Months. It Could Allow Them to Test an Enduring Physics Theory",
+          "url": "https://www.smithsonianmag.com/smart-news/for-the-first-time-scientists-trapped-an-elusive-antimatter-particle-and-contained-it-for-months-it-could-allow-them-to-test-an-enduring-physics-theory-180989738/",
+          "sourceId": "smithsonian",
+          "source": "Smithsonian Magazine",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "The standard model of particle physics works really well, but it can't explain why the universe exists. Something is missing, and this trapped particle might hold a clue to the answer",
+          "publishedAt": 1792781941000,
+          "fetchedAt": 1792844491560
+        },
+        {
+          "id": "4f7f734d31c8ac7aa25c",
+          "title": "Immerse Yourself in the Cosmos at Frank Lloyd Wright's Only Planetarium, Recently Restored to Its Former Glory in Florida",
+          "url": "https://www.smithsonianmag.com/smart-news/immerse-yourself-in-the-cosmos-at-frank-lloyd-wrights-only-planetarium-recently-restored-to-its-former-glory-in-florida-180989743/",
+          "sourceId": "smithsonian",
+          "source": "Smithsonian Magazine",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "Completed in 1958, the domed building is located on the campus of Florida Southern College, home to 13 Wright-designed buildings, the world's largest single-site collection of the architect's work",
+          "publishedAt": 1792778903000,
+          "fetchedAt": 1792844491560
+        }
+      ],
+      "checkedAt": 1792844488279,
+      "fetchedAt": 1792844491560,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "psyche",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "5aa1550509af05f3da02",
+          "title": "COMMUNICATION AND LANGUAGE",
+          "url": "https://psyche.co/relate/communication-and-language",
+          "sourceId": "psyche",
+          "source": "Psyche",
+          "category": "人文",
+          "region": "英国",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844490719
+        },
+        {
+          "id": "b621cdad0127d46d721c",
+          "title": "COMPASSION AND EMPATHY",
+          "url": "https://psyche.co/relate/compassion-and-empathy",
+          "sourceId": "psyche",
+          "source": "Psyche",
+          "category": "人文",
+          "region": "英国",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844490719
+        },
+        {
+          "id": "8c31146b6d6bcc893352",
+          "title": "GOALS AND MOTIVATION",
+          "url": "https://psyche.co/understand/goals-and-motivation",
+          "sourceId": "psyche",
+          "source": "Psyche",
+          "category": "人文",
+          "region": "英国",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844490719
+        }
+      ],
+      "checkedAt": 1792844488582,
+      "fetchedAt": 1792844490719,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "lithub",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "9b9d87fc94b06cb5db3c",
+          "title": "How to Find the Perfect Writing Soundtrack",
+          "url": "https://lithub.com/how-to-find-the-perfect-writing-soundtrack/",
+          "sourceId": "lithub",
+          "source": "Literary Hub",
+          "category": "人文",
+          "region": "美国",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844491318
+        },
+        {
+          "id": "b3c0f7049d2dd5775503",
+          "title": "Why Wikipedia is a Wonder of the Modern World—That We’ll Never See the Likes of Again",
+          "url": "https://lithub.com/why-wikipedia-is-a-wonder-of-the-modern-world-that-well-never-see-the-likes-of-again/",
+          "sourceId": "lithub",
+          "source": "Literary Hub",
+          "category": "人文",
+          "region": "美国",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844491318
+        },
+        {
+          "id": "ec47605d4cd4100a5495",
+          "title": "On Searching For Nabokov’s Rarest Paperbacks Across America",
+          "url": "https://lithub.com/on-searching-for-nabokovs-rarest-paperbacks-across-america/",
+          "sourceId": "lithub",
+          "source": "Literary Hub",
+          "category": "人文",
+          "region": "美国",
+          "reach": 3,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844491318
+        }
+      ],
+      "checkedAt": 1792844489346,
+      "fetchedAt": 1792844491318,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "nasa",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "452bf28ae114f7dcaeaf",
+          "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+          "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+          "sourceId": "nasa",
+          "source": "NASA",
+          "category": "环境",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844491458
+        },
+        {
+          "id": "a66ace63ea8798dc317d",
+          "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+          "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+          "sourceId": "nasa",
+          "source": "NASA",
+          "category": "环境",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844491458
+        },
+        {
+          "id": "13dd6fe9a9252ccd9f9a",
+          "title": "NASA Astronauts to Answer Questions from Florida Students",
+          "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+          "sourceId": "nasa",
+          "source": "NASA",
+          "category": "环境",
+          "region": "美国",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844491458
+        }
+      ],
+      "checkedAt": 1792844489444,
+      "fetchedAt": 1792844491459,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "carbonbrief",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "ef37fdd0f8efb5ee73ed",
+          "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
+          "url": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
+          "sourceId": "carbonbrief",
+          "source": "Carbon Brief",
+          "category": "环境",
+          "region": "英国",
+          "reach": 4,
+          "description": "For the first time, new-energy vehicles (NEVs) made up 67% of new car sales in China in September, according to… The post Chart: A record two-thirds of car sales in China are now electric vehicles appeared first on Carbon Brief.",
+          "publishedAt": 1792770926000,
+          "fetchedAt": 1792844494964
+        },
+        {
+          "id": "623c259b2c1fe05a14cb",
+          "title": "Experts: How are climate scientists using artificial intelligence?",
+          "url": "https://www.carbonbrief.org/experts-how-are-climate-scientists-using-artificial-intelligence",
+          "sourceId": "carbonbrief",
+          "source": "Carbon Brief",
+          "category": "环境",
+          "region": "英国",
+          "reach": 4,
+          "description": "Artificial intelligence (AI) is developing at a rapid pace and is increasingly being used by scientists to better understand climate… The post Experts: How are climate scientists using artificial intelligence? appeared first on Carbon Brief.",
+          "publishedAt": 1792665903000,
+          "fetchedAt": 1792844494964
+        },
+        {
+          "id": "62f989390d40ca3be337",
+          "title": "Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills",
+          "url": "https://www.carbonbrief.org/revealed-expensive-gas-behind-nearly-90-of-rise-in-uk-electricity-bills",
+          "sourceId": "carbonbrief",
+          "source": "Carbon Brief",
+          "category": "环境",
+          "region": "英国",
+          "reach": 4,
+          "description": "A surge in wholesale costs driven by expensive gas is responsible for nearly 90% of the rise in UK household… The post Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills appeared first on Carbon Brief.",
+          "publishedAt": 1792582675000,
+          "fetchedAt": 1792844494964
+        }
+      ],
+      "checkedAt": 1792844489901,
+      "fetchedAt": 1792844494964,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "iea",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "0ce209dcf86bd01e12b4",
+          "title": "Executive Director meets with Prime Minister Magyar of Hungary to discuss key international energy trends",
+          "url": "https://www.iea.org/news/executive-director-meets-with-prime-minister-magyar-of-hungary-to-discuss-key-international-energy-trends",
+          "sourceId": "iea",
+          "source": "International Energy Agency",
+          "category": "环境",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844492882
+        },
+        {
+          "id": "3ccc5258caedc11de3d0",
+          "title": "Escalation of attacks threatens to derail recovery in Middle East oil exports",
+          "url": "https://www.iea.org/reports/oil-market-report-october-2026",
+          "sourceId": "iea",
+          "source": "International Energy Agency",
+          "category": "环境",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844492882
+        },
+        {
+          "id": "e75f55f83c31bc1e5a57",
+          "title": "New podcast episode looks at the situation in the Strait of Hormuz and across the Middle East",
+          "url": "https://www.iea.org/news/new-podcast-episode-looks-at-the-latest-situation-in-the-strait-of-hormuz-and-across-the-middle-east",
+          "sourceId": "iea",
+          "source": "International Energy Agency",
+          "category": "环境",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844492882
+        }
+      ],
+      "checkedAt": 1792844490719,
+      "fetchedAt": 1792844492882,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "wmo",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "f1702a640765a8ed751f",
+          "title": "Magazine MeteoWorld - October 2026",
+          "url": "https://wmo.int/resources/meteoworld/meteoworld-october-2026",
+          "sourceId": "wmo",
+          "source": "World Meteorological Organization",
+          "category": "环境",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844494399
+        },
+        {
+          "id": "9717b67ed0688680f60e",
+          "title": "Publication Global Seasonal Climate Update for November-December-January 2026",
+          "url": "https://wmo.int/resources/publication-series/global-seasonal-climate-updates/gscu-ndj2026",
+          "sourceId": "wmo",
+          "source": "World Meteorological Organization",
+          "category": "环境",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844494399
+        },
+        {
+          "id": "a7b8a29eaf9bf090a29c",
+          "title": "News WMO welcomes Grenada as 194th Member",
+          "url": "https://wmo.int/media/news/wmo-welcomes-grenada-194th-member",
+          "sourceId": "wmo",
+          "source": "World Meteorological Organization",
+          "category": "环境",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844494399
+        }
+      ],
+      "checkedAt": 1792844491318,
+      "fetchedAt": 1792844494400,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "unep",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844491459,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "yale360",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "11937e6be50bf9f2cf2b",
+          "title": "What Is Driving the Global Resurgence of Mangrove Forests?",
+          "url": "https://e360.yale.edu/features/mangrove-restoration",
+          "sourceId": "yale360",
+          "source": "Yale Environment 360",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844493360
+        },
+        {
+          "id": "f343a18d941e10702546",
+          "title": "Arctic Wildlife Research Suffers as Geopolitical Competition Grows",
+          "url": "https://e360.yale.edu/features/arctic-research-geopolitical-tensions",
+          "sourceId": "yale360",
+          "source": "Yale Environment 360",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844493360
+        },
+        {
+          "id": "7a09c402b91f6188cf06",
+          "title": "The U.S. Public Is Losing Its Say on Environmental Policy",
+          "url": "https://e360.yale.edu/features/public-comment-environment-regulations-permits",
+          "sourceId": "yale360",
+          "source": "Yale Environment 360",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844493360
+        }
+      ],
+      "checkedAt": 1792844491560,
+      "fetchedAt": 1792844493360,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "mongabay",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "90fc3aed9a19b61295db",
+          "title": "World Kangaroo Day: How climate change impacts Australia’s macropods",
+          "url": "https://news.mongabay.com/2026/10/world-kangaroo-day-how-climate-change-impacts-australias-macropods/",
+          "sourceId": "mongabay",
+          "source": "Mongabay",
+          "category": "环境",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844494909
+        },
+        {
+          "id": "ddbaf6bc30fe63fbf910",
+          "title": "Mozambique safari operator wins conservation award at COP17",
+          "url": "https://news.mongabay.com/short-article/2026/10/mozambique-safari-operator-wins-conservation-award-at-cop17/",
+          "sourceId": "mongabay",
+          "source": "Mongabay",
+          "category": "环境",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844494909
+        },
+        {
+          "id": "977a433b53c0526c058a",
+          "title": "Bangladesh’s climate migrants are arriving in cities unprepared to protect them",
+          "url": "https://news.mongabay.com/2026/10/bangladeshs-climate-migrants-are-arriving-in-cities-unprepared-to-protect-them/",
+          "sourceId": "mongabay",
+          "source": "Mongabay",
+          "category": "环境",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844494909
+        }
+      ],
+      "checkedAt": 1792844492772,
+      "fetchedAt": 1792844494909,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "who",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "414df97fdf7b6de6cb1a",
+          "title": "Meeting of the South-East Asia Regional Working Group on Immunization, New Delhi, India, 26 September...",
+          "url": "https://www.who.int/publications/i/item/sea%E2%80%93hdc%E2%80%938",
+          "sourceId": "who",
+          "source": "World Health Organization",
+          "category": "健康",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844495215
+        },
+        {
+          "id": "093a48a8734bdc0ba25e",
+          "title": "A comprehensive integrated review of malaria, leishmaniasis, filariasis and dengue control programmes...",
+          "url": "https://www.who.int/publications/i/item/9789292800260",
+          "sourceId": "who",
+          "source": "World Health Organization",
+          "category": "健康",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844495215
+        },
+        {
+          "id": "348d9b3dbe40ff73d9d4",
+          "title": "Cupping therapy: descriptive synthesis of training",
+          "url": "https://www.who.int/publications/i/item/9789240125964",
+          "sourceId": "who",
+          "source": "World Health Organization",
+          "category": "健康",
+          "region": "国际机构",
+          "reach": 5,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844495215
+        }
+      ],
+      "checkedAt": 1792844492882,
+      "fetchedAt": 1792844495215,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "nih",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844493360,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 404"
+    },
+    {
+      "sourceId": "lancet",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844494400,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "bmj",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "2c884e31f85e0e779028",
+          "title": "Measles: &#x201C;Stagnant&#x201D; vaccine coverage has led to global resurgence, analysis finds",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101230.short?rss=1",
+          "sourceId": "bmj",
+          "source": "The BMJ",
+          "category": "健康",
+          "region": "英国",
+          "reach": 5,
+          "description": "Significant global progress towards eliminating measles has been lost since 2020 because of “stagnation” in global vaccine coverage, a new analysis suggests.1Researchers said that this had led to a resurgence in the disease and that “urgent action” was needed to restore routine immunisation.The study assessed measles incidence, mortality, disability adjusted",
+          "publishedAt": 1792770076000,
+          "fetchedAt": 1792844499150
+        },
+        {
+          "id": "e771d3c58998476e64ec",
+          "title": "Five AI tools for prostate cancer screening are recommended by NICE",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101231.short?rss=1",
+          "sourceId": "bmj",
+          "source": "The BMJ",
+          "category": "健康",
+          "region": "英国",
+          "reach": 5,
+          "description": "Five AI tools that can help identify prostate cancer “more accurately” on magnetic resonance imaging (MRI) scans will be made available to doctors, the National Institute for Health and Care Excellence (NICE) has announced.NICE has recommended that the technologies be used in the NHS to help detect prostate cancer on MRI while further evidence on their use a",
+          "publishedAt": 1792765271000,
+          "fetchedAt": 1792844499151
+        },
+        {
+          "id": "3ae613b5a92893b35b2d",
+          "title": "Competition for specialty training eases for UK graduates after law change",
+          "url": "http://www.bmj.com/content/395/bmj-2026-101227.short?rss=1",
+          "sourceId": "bmj",
+          "source": "The BMJ",
+          "category": "健康",
+          "region": "英国",
+          "reach": 5,
+          "description": "Competition for NHS specialty training posts eased substantially for UK graduates in 2026, official data show.This follows new legislation to prioritise UK medical graduates over international medical graduates (IMGs) for posts in response to concerns about increasing competition.1The BMA, which pushed for the law change, welcomed the figures.The NHS figures",
+          "publishedAt": 1792761075000,
+          "fetchedAt": 1792844499151
+        }
+      ],
+      "checkedAt": 1792844494704,
+      "fetchedAt": 1792844499151,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "stat",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "fdc9944b82325740fe41",
+          "title": "Obesity Drug Tracker",
+          "url": "https://www.statnews.com/2023/09/12/new-weight-loss-drug-tracker-novo-nordisk-eli-lilly/",
+          "sourceId": "stat",
+          "source": "STAT",
+          "category": "健康",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844497164
+        },
+        {
+          "id": "27f91ede752ab84e9825",
+          "title": "STAT Plus: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+          "url": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/",
+          "sourceId": "stat",
+          "source": "STAT",
+          "category": "健康",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844497165
+        },
+        {
+          "id": "40de7beeb9843c51ccf9",
+          "title": "STAT Plus: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
+          "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/",
+          "sourceId": "stat",
+          "source": "STAT",
+          "category": "健康",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844497165
+        }
+      ],
+      "checkedAt": 1792844494909,
+      "fetchedAt": 1792844497165,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "skynews",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "a6a66a15bcada94349ef",
+          "title": "Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat",
+          "url": "https://news.sky.com/story/suspect-arrested-after-fire-at-nazis-wwii-eagles-nest-mountain-retreat-13602938",
+          "sourceId": "skynews",
+          "source": "Sky News",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 4,
+          "description": "Police have detained a suspect after a fire erupted at a historic Nazi mountain retreat known as \"Eagle's Nest\" in Germany.",
+          "publishedAt": 1792815300000,
+          "fetchedAt": 1792844498167
+        },
+        {
+          "id": "2b3c3601bd8c25253c28",
+          "title": "Vincent Kompany taken to hospital after collapsing at Bayern Munich training",
+          "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791",
+          "sourceId": "skynews",
+          "source": "Sky News",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 4,
+          "description": "Bayern Munich coach Vincent Kompany has been taken to hospital after collapsing at the club's training ground.",
+          "publishedAt": 1792774500000,
+          "fetchedAt": 1792844498167
+        },
+        {
+          "id": "410f0eeac6f422b1c0d7",
+          "title": "Bahamas police investigate after British woman dies trying to rescue sons",
+          "url": "https://news.sky.com/story/bahamas-police-investigate-after-british-woman-dies-trying-to-rescue-sons-13602998",
+          "sourceId": "skynews",
+          "source": "Sky News",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 4,
+          "description": "Police are investigating after a British woman died while trying to rescue her two sons off the Bahamas coast.",
+          "publishedAt": 1792833900000,
+          "fetchedAt": 1792844498167
+        }
+      ],
+      "checkedAt": 1792844494964,
+      "fetchedAt": 1792844498167,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "pbs",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "ad134e1ee9fb0ce293f2",
+          "title": "Capehart and Ponnuru on Trump's threat to block Alaska election results",
+          "url": "https://www.pbs.org/newshour/show/capehart-and-ponnuru-on-trumps-threat-to-block-alaska-election-results",
+          "sourceId": "pbs",
+          "source": "PBS NewsHour",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844499251
+        },
+        {
+          "id": "661082d7d3e040792bee",
+          "title": "Trump says he ordered suit to block Alaska Senate results if GOP loses",
+          "url": "https://www.pbs.org/newshour/show/trump-says-he-ordered-suit-to-block-alaska-senate-results-if-gop-loses",
+          "sourceId": "pbs",
+          "source": "PBS NewsHour",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844499251
+        },
+        {
+          "id": "9c9876e428a1c00b6217",
+          "title": "'There's babies in there': Oregon father describes stopping school shooter",
+          "url": "https://www.pbs.org/newshour/show/theres-babies-in-there-oregon-father-describes-stopping-school-shooter",
+          "sourceId": "pbs",
+          "source": "PBS NewsHour",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844499251
+        }
+      ],
+      "checkedAt": 1792844495215,
+      "fetchedAt": 1792844499251,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "cbs",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "33366fd7b600aea3de82",
+          "title": "Iran has \"increased efforts to target U.S. personnel,\" intel chief warns",
+          "url": "https://www.cbsnews.com/news/iran-target-u-s-personnel/",
+          "sourceId": "cbs",
+          "source": "CBS News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844498385
+        },
+        {
+          "id": "f9d894a3a5cbcaf11ad3",
+          "title": "French police respond as nation braces for another weekend of protests",
+          "url": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+          "sourceId": "cbs",
+          "source": "CBS News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844498385
+        },
+        {
+          "id": "ee83101e2beede43c04f",
+          "title": "ICE crackdown prompts some Texas Latinos to turn away from Trump",
+          "url": "https://www.cbsnews.com/news/ice-crackdown-texas-latinos-trump/",
+          "sourceId": "cbs",
+          "source": "CBS News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844498385
+        }
+      ],
+      "checkedAt": 1792844495884,
+      "fetchedAt": 1792844498385,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "abcus",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "4088d4db8b3a3175495c",
+          "title": "ABC News Live Weekend",
+          "url": "https://abcnews.go.com/Live",
+          "sourceId": "abcus",
+          "source": "ABC News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500433
+        },
+        {
+          "id": "88e8249617416a1366bf",
+          "title": "The Georgia volunteer helping seniors to the polls this midterms",
+          "url": "https://abcnews.go.com/video/137520356/?_playlistId=135952457",
+          "sourceId": "abcus",
+          "source": "ABC News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500435
+        },
+        {
+          "id": "9059551c6c9eaf45ef95",
+          "title": "DOJ preemptively sues to block Alaska senate race certification if Republican loses",
+          "url": "https://abcnews.go.com/video/137517077/?_playlistId=135952457",
+          "sourceId": "abcus",
+          "source": "ABC News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500435
+        }
+      ],
+      "checkedAt": 1792844496448,
+      "fetchedAt": 1792844500435,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "nbc",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "fb2673305bb09a863691",
+          "title": "Countdown to midterms",
+          "url": "https://www.nbcnews.com/politics/2026-elections/midterms",
+          "sourceId": "nbc",
+          "source": "NBC News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500459
+        },
+        {
+          "id": "3923ba9964cca4591e0b",
+          "title": "Chelsea Stahl / NBC News; Getty",
+          "url": "https://www.nbcnews.com/politics/2026-election/house-majority-math-democrats-win-republicans-scenarios-rcna604404",
+          "sourceId": "nbc",
+          "source": "NBC News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500460
+        },
+        {
+          "id": "1a0322110f980991d08b",
+          "title": "Interactive graphic: Road to a House majority",
+          "url": "https://www.nbcnews.com/politics/2026-election/graphic-congress-house-2026-election-outcomes-rcna604403",
+          "sourceId": "nbc",
+          "source": "NBC News",
+          "category": "新闻",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500460
+        }
+      ],
+      "checkedAt": 1792844497165,
+      "fetchedAt": 1792844500460,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "politico",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "8c257f2c305c998efc8e",
+          "title": "70,000 police forces deployed in France for tense day of protests",
+          "url": "https://www.politico.eu/article/france-police-deploy-protests/",
+          "sourceId": "politico",
+          "source": "POLITICO",
+          "category": "新闻",
+          "region": "欧洲 / 美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500478
+        },
+        {
+          "id": "a0310c6559bc992d6196",
+          "title": "Inside the cyber flaw scramble that brought the AI threat to life",
+          "url": "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/",
+          "sourceId": "politico",
+          "source": "POLITICO",
+          "category": "新闻",
+          "region": "欧洲 / 美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500478
+        },
+        {
+          "id": "0dbbffcb1c82efe682aa",
+          "title": "What’s not on the ballot in Israel: Peace",
+          "url": "https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/",
+          "sourceId": "politico",
+          "source": "POLITICO",
+          "category": "新闻",
+          "region": "欧洲 / 美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844500478
+        }
+      ],
+      "checkedAt": 1792844498167,
+      "fetchedAt": 1792844500478,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "euronews",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "712ea31dd9c2fc339971",
+          "title": "Live. New protests underway in France as police fire tear gas",
+          "url": "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators",
+          "sourceId": "euronews",
+          "source": "Euronews",
+          "category": "新闻",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844501206
+        },
+        {
+          "id": "2844daf700492f2f1f08",
+          "title": "Tensions mount as thousands rally against Marine Le Pen’s rally",
+          "url": "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france",
+          "sourceId": "euronews",
+          "source": "Euronews",
+          "category": "新闻",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844501206
+        },
+        {
+          "id": "4d8f03a9d04039d0a3e4",
+          "title": "Live. Madrid joins weekend of protests across Europe",
+          "url": "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions",
+          "sourceId": "euronews",
+          "source": "Euronews",
+          "category": "新闻",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844501206
+        }
+      ],
+      "checkedAt": 1792844498385,
+      "fetchedAt": 1792844501206,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "independent",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "1b83774e9aec0ad61ae1",
+          "title": "Trump boasts he ordered DOJ to sue Alaska to get election result tossed out if they lose",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-sues-alaska-election-dan-sullivan-b3072470.html",
+          "sourceId": "independent",
+          "source": "The Independent",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503171
+        },
+        {
+          "id": "f6dd0f05c0f547c947f5",
+          "title": "Trump threats to mail-in ballots boosts early voting, experts say",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-mail-in-ballots-midterm-election-results-b3072440.html",
+          "sourceId": "independent",
+          "source": "The Independent",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503171
+        },
+        {
+          "id": "78019a7d97d97a6f88aa",
+          "title": "Dad who shot school gunman says kids were ‘pleading for their lives’",
+          "url": "https://www.independent.co.uk/news/world/americas/oregon-school-shooter-dad-interview-b3072500.html",
+          "sourceId": "independent",
+          "source": "The Independent",
+          "category": "新闻",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503171
+        }
+      ],
+      "checkedAt": 1792844499151,
+      "fetchedAt": 1792844503171,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "irish",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844499252,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "页面过大"
+    },
+    {
+      "sourceId": "nikkei",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "2919ea68f934ef0ca279",
+          "title": "China's automaking rise spurs German industry's turn to arms",
+          "url": "https://asia.nikkei.com/spotlight/big-in-asia/china-s-automaking-rise-spurs-german-industry-s-turn-to-arms",
+          "sourceId": "nikkei",
+          "source": "Nikkei Asia",
+          "category": "商业",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503039
+        },
+        {
+          "id": "25f978448a77fd74f076",
+          "title": "Once-notorious Japanese chemical complex draws tourists after dark",
+          "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/once-notorious-japanese-chemical-complex-draws-tourists-after-dark",
+          "sourceId": "nikkei",
+          "source": "Nikkei Asia",
+          "category": "商业",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503039
+        },
+        {
+          "id": "356f144070e00da53a71",
+          "title": "Australian women bring fresh voices to indie pop",
+          "url": "https://asia.nikkei.com/life-arts/arts/australian-women-bring-fresh-voices-to-indie-pop",
+          "sourceId": "nikkei",
+          "source": "Nikkei Asia",
+          "category": "商业",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503039
+        }
+      ],
+      "checkedAt": 1792844500435,
+      "fetchedAt": 1792844503039,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "koreaherald",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "9863b39c8b5dbe94067a",
+          "title": "N. Korea's Kim Yo-jong escalates border threats in apparent pressure tactic",
+          "url": "https://www.koreaherald.com/article/10911593",
+          "sourceId": "koreaherald",
+          "source": "The Korea Herald",
+          "category": "新闻",
+          "region": "韩国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503832
+        },
+        {
+          "id": "9ab714cab325a88455bb",
+          "title": "Life&Culture Is Korea’s black puffer era coming to an end? Long black puffer jackets have long dominated South Korea’s winter streets. But in a country known for its fast-changing fashion trends, could brighter colors be making their way into winter wardrobes",
+          "url": "https://www.koreaherald.com/article/10913273",
+          "sourceId": "koreaherald",
+          "source": "The Korea Herald",
+          "category": "新闻",
+          "region": "韩国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503833
+        },
+        {
+          "id": "efc6fd06544f32ae0ddf",
+          "title": "Kim Jong-un makes surprise visit to China via new Yalu River bridge",
+          "url": "https://www.koreaherald.com/article/10913525",
+          "sourceId": "koreaherald",
+          "source": "The Korea Herald",
+          "category": "新闻",
+          "region": "韩国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844503833
+        }
+      ],
+      "checkedAt": 1792844500460,
+      "fetchedAt": 1792844503833,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "taipeitimes",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "967f74498f050ec2a5e9",
+          "title": "Typhoon Champi shuts down Taiwan",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521",
+          "sourceId": "taipeitimes",
+          "source": "Taipei Times",
+          "category": "新闻",
+          "region": "中国台湾",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844502482
+        },
+        {
+          "id": "148f28f8b9ae12af5db6",
+          "title": "Military to restructure on tech, firepower: source",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866522",
+          "sourceId": "taipeitimes",
+          "source": "Taipei Times",
+          "category": "新闻",
+          "region": "中国台湾",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844502482
+        },
+        {
+          "id": "e0749385ad43cd44e0f6",
+          "title": "CGA urges Beijing not to use typhoons to assert jurisdiction",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866523",
+          "sourceId": "taipeitimes",
+          "source": "Taipei Times",
+          "category": "新闻",
+          "region": "中国台湾",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844502482
+        }
+      ],
+      "checkedAt": 1792844500478,
+      "fetchedAt": 1792844502482,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "straitstimes",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "df5403ae9d2841bf4187",
+          "title": "Gas supply cut from Indonesia accounts for less than 2% of S’pore’s daily gas demand: EMA",
+          "url": "https://www.straitstimes.com/singapore/environment/gas-supply-cut-from-indonesia-accounts-for-less-than-2-of-spore-s-daily-gas-demand-ema?ref=top-stories",
+          "sourceId": "straitstimes",
+          "source": "The Straits Times",
+          "category": "新闻",
+          "region": "新加坡",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505016
+        },
+        {
+          "id": "958959654c3ef5ade84c",
+          "title": "PM Wong looks forward to team with ‘experience and fresh perspectives’ as PAP elects new leadership",
+          "url": "https://www.straitstimes.com/singapore/politics/pm-wong-looks-forward-to-team-with-experience-and-fresh-perspectives-as-pap-elects-new-leadership?ref=top-stories",
+          "sourceId": "straitstimes",
+          "source": "The Straits Times",
+          "category": "新闻",
+          "region": "新加坡",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505017
+        },
+        {
+          "id": "b28de167fc054b139df3",
+          "title": "5 S’pore firms to cooperate with authorities after getting haze law notices",
+          "url": "https://www.straitstimes.com/singapore/spore-firms-to-cooperate-with-authorities-after-getting-haze-law-notices?ref=top-stories",
+          "sourceId": "straitstimes",
+          "source": "The Straits Times",
+          "category": "新闻",
+          "region": "新加坡",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505017
+        }
+      ],
+      "checkedAt": 1792844501207,
+      "fetchedAt": 1792844505017,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "dawn",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "c27f391ffdc30da097dc",
+          "title": "Pakistan rejects ex-US envoy Khalilzad’s 'baseless' allegations of arming Afghans to fight Taliban",
+          "url": "https://www.dawn.com/news/2039485/pakistan-rejects-ex-us-envoy-khalilzads-baseless-allegations-of-arming-afghans-to-fight-taliban",
+          "sourceId": "dawn",
+          "source": "Dawn",
+          "category": "新闻",
+          "region": "巴基斯坦",
+          "reach": 4,
+          "description": "The information ministry on Saturday rejected former United States envoy Zalmay Khalilzad’s “baseless and misleading allegations” that Pakistan was arming former Afghans to fight the Taliban or their supporting terrorist groups. The ministry’s response came a day after Khalilzad, who served as special representative to Afghanistan during the first Trump admi",
+          "publishedAt": 1792843535000,
+          "fetchedAt": 1792844506525
+        },
+        {
+          "id": "059ad3d36db06b9bf92b",
+          "title": "Aurangzeb rules out consumption-led growth, says tariff reforms will continue",
+          "url": "https://www.dawn.com/news/2039483/aurangzeb-rules-out-consumption-led-growth-says-tariff-reforms-will-continue",
+          "sourceId": "dawn",
+          "source": "Dawn",
+          "category": "新闻",
+          "region": "巴基斯坦",
+          "reach": 4,
+          "description": "Finance Minister Muhammad Aurangzeb has ruled out pursuing liquidity-fuelled, consumption-led economic growth, saying Pakistan must prioritise sustainable, export-led expansion and continue with tariff reforms to improve the competitiveness of its industries. The finance minister was speaking at the Lahore University of Management Sciences (Lums) on Saturday",
+          "publishedAt": 1792842857000,
+          "fetchedAt": 1792844506525
+        },
+        {
+          "id": "34c43803f5f865a6f1e5",
+          "title": "Police fire tear gas as new French demonstrations kick off",
+          "url": "https://www.dawn.com/news/2039459/police-fire-tear-gas-as-new-french-demonstrations-kick-off",
+          "sourceId": "dawn",
+          "source": "Dawn",
+          "category": "新闻",
+          "region": "巴基斯坦",
+          "reach": 4,
+          "description": "French police started firing tear gas at protesters Saturday as they stepped up security in major cities, aiming to prevent a repeat of rioting a week ago, on a day of fresh nationwide demonstrations over the high cost of living. Police in the southeast city of Lyon fired tear gas to disperse some 150 protesters near the city centre — where demonstrations ha",
+          "publishedAt": 1792842153000,
+          "fetchedAt": 1792844506525
+        }
+      ],
+      "checkedAt": 1792844502482,
+      "fetchedAt": 1792844506525,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "jakarta",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "2f11a80ba852f462652e",
+          "title": "Prabowo begins third year with tighter grip as public support slips",
+          "url": "https://www.thejakartapost.com/indonesia/2026/10/20/prabowo-begins-third-year-with-tighter-grip-as-public-support-slips",
+          "sourceId": "jakarta",
+          "source": "The Jakarta Post",
+          "category": "新闻",
+          "region": "印度尼西亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505003
+        },
+        {
+          "id": "a333384eae0f7a85c6e4",
+          "title": "Power for the people",
+          "url": "https://www.thejakartapost.com/opinion/2026/10/20/power-for-the-people",
+          "sourceId": "jakarta",
+          "source": "The Jakarta Post",
+          "category": "新闻",
+          "region": "印度尼西亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505003
+        },
+        {
+          "id": "77c043a1584ecd7f0491",
+          "title": "‘I’m sorry’: Indonesians apologize, urge foreign pressure over haze",
+          "url": "https://www.thejakartapost.com/indonesia/2026/10/22/im-sorry-indonesians-apologize-urge-foreign-pressure-over-haze",
+          "sourceId": "jakarta",
+          "source": "The Jakarta Post",
+          "category": "新闻",
+          "region": "印度尼西亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505003
+        }
+      ],
+      "checkedAt": 1792844502653,
+      "fetchedAt": 1792844505003,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "bangkok",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "c4f3076a58db98692a9c",
+          "title": "Motorcyclist held for road rage attack on Bangkok woman",
+          "url": "https://www.bangkokpost.com/thailand/general/3342830/motorcyclist-held-for-road-rage-attack-on-bangkok-woman",
+          "sourceId": "bangkok",
+          "source": "Bangkok Post",
+          "category": "新闻",
+          "region": "泰国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505309
+        },
+        {
+          "id": "584652da51076971f25d",
+          "title": "Anutin leaves door open to third coalition partner",
+          "url": "https://www.bangkokpost.com/thailand/politics/3342810/anutin-leaves-door-open-to-third-coalition-partner",
+          "sourceId": "bangkok",
+          "source": "Bangkok Post",
+          "category": "新闻",
+          "region": "泰国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505309
+        },
+        {
+          "id": "54ec1fa348bed08e14b7",
+          "title": "Orange shadow looms over People’s Party",
+          "url": "https://www.bangkokpost.com/thailand/politics/3342759/orange-shadow-looms-over-peoples-party",
+          "sourceId": "bangkok",
+          "source": "Bangkok Post",
+          "category": "新闻",
+          "region": "泰国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505309
+        }
+      ],
+      "checkedAt": 1792844503039,
+      "fetchedAt": 1792844505309,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "africanews",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "f9e6b3cfed6fec0c1f99",
+          "title": "Two 'unauthorised' oil tankers struck in Strait of Hormuz, Iran says",
+          "url": "https://www.africanews.com/2026/10/24/two-unauthorised-oil-tankers-struck-in-strait-of-hormuz-iran-says/",
+          "sourceId": "africanews",
+          "source": "Africanews",
+          "category": "新闻",
+          "region": "非洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505174
+        },
+        {
+          "id": "02481fe7789384565b25",
+          "title": "New Tumaini Ebola vaccine trial launches in Bunia as DRC struggles",
+          "url": "https://www.africanews.com/2026/10/24/new-tumaini-ebola-vaccine-trial-launches-in-bunia-as-drc-struggles/",
+          "sourceId": "africanews",
+          "source": "Africanews",
+          "category": "新闻",
+          "region": "非洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505174
+        },
+        {
+          "id": "2a63a118a5a5106f7998",
+          "title": "Brazil candidates make final campaign push ahead of presidential runoff",
+          "url": "https://www.africanews.com/2026/10/24/brazil-candidates-make-final-campaign-push-ahead-of-presidential-runoff/",
+          "sourceId": "africanews",
+          "source": "Africanews",
+          "category": "新闻",
+          "region": "非洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844505174
+        }
+      ],
+      "checkedAt": 1792844503171,
+      "fetchedAt": 1792844505174,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "africareport",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844503833,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "restofworld",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "c634e0a5fe26d7cac1e4",
+          "title": "Big Tech’s thirst for water is sparking a global resistance",
+          "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+          "sourceId": "restofworld",
+          "source": "Rest of World",
+          "category": "科技",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844506982
+        },
+        {
+          "id": "b1eb211bb9f4875bdfac",
+          "title": "Will developing nations be able to handle millions of AI agents?",
+          "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
+          "sourceId": "restofworld",
+          "source": "Rest of World",
+          "category": "科技",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844506982
+        },
+        {
+          "id": "b6efe832c957fe992aeb",
+          "title": "Western open-weight models still can’t beat China",
+          "url": "https://restofworld.org/2026/china-open-weight-models/",
+          "sourceId": "restofworld",
+          "source": "Rest of World",
+          "category": "科技",
+          "region": "全球",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844506982
+        }
+      ],
+      "checkedAt": 1792844505003,
+      "fetchedAt": 1792844506982,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "techxplore",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "8b0c94e050fbd2d726c9",
+          "title": "UK pledges more funding to guard against AI risks , 2 hours ago",
+          "url": "https://techxplore.com/news/2026-10-uk-pledges-funding-ai.html",
+          "sourceId": "techxplore",
+          "source": "Tech Xplore",
+          "category": "科技",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844506871
+        },
+        {
+          "id": "0f836b5996571c6621dc",
+          "title": "Something smells different as scientists send aromas over the internet",
+          "url": "https://techxplore.com/news/2026-10-scientists-aromas-internet.html",
+          "sourceId": "techxplore",
+          "source": "Tech Xplore",
+          "category": "科技",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844506872
+        },
+        {
+          "id": "ae669f4733c95aa324ee",
+          "title": "Strand AI on a desert island, and it starts playing and inventing games",
+          "url": "https://techxplore.com/news/2026-10-strand-ai-island-playing-games.html",
+          "sourceId": "techxplore",
+          "source": "Tech Xplore",
+          "category": "科技",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844506872
+        }
+      ],
+      "checkedAt": 1792844505017,
+      "fetchedAt": 1792844506872,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "acm",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844505174,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "nist",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "d9e973130f5523d082a8",
+          "title": "Measurement Research Could Help Devices Tell You If They’ve Been Tampered With",
+          "url": "https://www.nist.gov/blogs/taking-measure/measurement-research-could-help-devices-tell-you-if-theyve-been-tampered",
+          "sourceId": "nist",
+          "source": "NIST",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508980
+        },
+        {
+          "id": "040e2bcdf4a55089dfdd",
+          "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security",
+          "url": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
+          "sourceId": "nist",
+          "source": "NIST",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508980
+        },
+        {
+          "id": "131c5ed777613eb23d22",
+          "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over Time",
+          "url": "https://www.nist.gov/news-events/news/2026/10/nist-study-shows-how-toxic-substances-mixed-fentanyl-vary-across-us-and",
+          "sourceId": "nist",
+          "source": "NIST",
+          "category": "科技",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508980
+        }
+      ],
+      "checkedAt": 1792844505309,
+      "fetchedAt": 1792844508980,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "esa",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "7dc0742e9e0c2787d508",
+          "title": "Ministerial Council 2025",
+          "url": "https://www.esa.int/About_Us/Ministerial_Council_2025",
+          "sourceId": "esa",
+          "source": "European Space Agency",
+          "category": "学术",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844507220
+        },
+        {
+          "id": "70e3a24e8f5d3cbe3502",
+          "title": "Earth from Space: The pink city",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
+          "sourceId": "esa",
+          "source": "European Space Agency",
+          "category": "学术",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844507220
+        },
+        {
+          "id": "b769cbbadeda21e4e7dc",
+          "title": "350th ESA Council: Media information session",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
+          "sourceId": "esa",
+          "source": "European Space Agency",
+          "category": "学术",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844507220
+        }
+      ],
+      "checkedAt": 1792844505347,
+      "fetchedAt": 1792844507220,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "cern",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844506525,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 404"
+    },
+    {
+      "sourceId": "caltech",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "747f6d7044b8f2b3ef6b",
+          "title": "Watson Lecture: Katie Bouman Discusses Imaging the Invisible",
+          "url": "https://www.caltech.edu/about/news/watson-lecture-katie-bouman-imaging-invisible",
+          "sourceId": "caltech",
+          "source": "Caltech",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "How can we extend the limits of observation to \"see\" the seemingly invisible? On Wednesday, November 4, 2026, Katie Bouman, professor of computing and mathematical sciences, electrical engineering and astronomy; Rosenberg Scholar; and a Heritage Medical Research Institute Investigator, will share how her lab combines physics and machine learning to see thing",
+          "publishedAt": 1792784755521,
+          "fetchedAt": 1792844510905
+        },
+        {
+          "id": "e50308a04c2b942e41d4",
+          "title": "Elections Are More Predictable than They Look",
+          "url": "https://www.caltech.edu/about/news/elections-are-more-predictable-than-they-look",
+          "sourceId": "caltech",
+          "source": "Caltech",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when individual races produce surprises. \"There are a lot of generalit",
+          "publishedAt": 1792772169331,
+          "fetchedAt": 1792844510905
+        },
+        {
+          "id": "ab954e1200f05ab63247",
+          "title": "$7 Million Gift Establishes New HSS Lab in Environmental Economics and Policy Design",
+          "url": "https://www.caltech.edu/about/news/7-million-gift-establishes-new-hss-lab-in-environmental-economics-and-policy-design",
+          "sourceId": "caltech",
+          "source": "Caltech",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "One of the most effective ways to protect the environment is to make markets work for environmental goals rather than against them, using tools such as tradable permits and payments for ecosystem services. But doing that requires measurements and data: How much of a resource exists, how is it changing, and what is it worth to society? Until recently, that in",
+          "publishedAt": 1792594800000,
+          "fetchedAt": 1792844510905
+        }
+      ],
+      "checkedAt": 1792844506725,
+      "fetchedAt": 1792844510905,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "berkeley",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "f1f169d915733589dc15",
+          "title": "California’s investment in early education brought dramatic improvement in learning, study finds",
+          "url": "https://news.berkeley.edu/2026/10/22/californias-investment-in-early-education-brought-dramatic-improvement-in-learning-study-finds/",
+          "sourceId": "berkeley",
+          "source": "UC Berkeley",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508623
+        },
+        {
+          "id": "e97a625ba36e1c0b59d8",
+          "title": "What makes us human? This professor looks to ancient rabbis for answers",
+          "url": "https://news.berkeley.edu/2026/10/20/what-makes-us-human-this-professor-looks-to-ancient-rabbis-for-answers/",
+          "sourceId": "berkeley",
+          "source": "UC Berkeley",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508623
+        },
+        {
+          "id": "ddee543d623d98fd245f",
+          "title": "Berkeley helped make IceCube a success — and earn its leader the 2026 Nobel Prize in Physics",
+          "url": "https://news.berkeley.edu/2026/10/08/berkeley-helped-make-icecube-a-success-and-earn-its-leader-the-2026-nobel-prize-in-physics/",
+          "sourceId": "berkeley",
+          "source": "UC Berkeley",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508623
+        }
+      ],
+      "checkedAt": 1792844506872,
+      "fetchedAt": 1792844508623,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "uchicago",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "0f0e25c24aa443905020",
+          "title": "Arts & Humanities Day returns to reconsider familiar stories and America’s legacy at 250",
+          "url": "https://news.uchicago.edu/story/arts-humanities-day-returns-reconsider-familiar-stories-and-americas-legacy-250",
+          "sourceId": "uchicago",
+          "source": "University of Chicago",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508760
+        },
+        {
+          "id": "446d442c8f96154e42d9",
+          "title": "Mourning in Colombia, delivery routes in Chengdu: UChicagoans recount discoveries abroad",
+          "url": "https://news.uchicago.edu/story/mourning-colombia-delivery-routes-chengdu-uchicagoans-recount-discoveries-abroad",
+          "sourceId": "uchicago",
+          "source": "University of Chicago",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508760
+        },
+        {
+          "id": "97d08bd632fd76c09547",
+          "title": "New study abroad program takes student across Sydney to observe Australia’s multilayered history",
+          "url": "https://news.uchicago.edu/story/new-study-abroad-program-takes-student-across-sydney-observe-australias-multilayered-history",
+          "sourceId": "uchicago",
+          "source": "University of Chicago",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844508760
+        }
+      ],
+      "checkedAt": 1792844506982,
+      "fetchedAt": 1792844508760,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "imperial",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "49b15a1b2b309dbf424a",
+          "title": "New UK trial aims to find answers more quickly for Alzheimer's disease",
+          "url": "https://www.imperial.ac.uk/news/articles/medicine/brain-sciences/2026/new-uk-trial-aims-to-find-answers-more-quickly-for-alzheimers-disease-/",
+          "sourceId": "imperial",
+          "source": "Imperial College London",
+          "category": "学术",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844509294
+        },
+        {
+          "id": "8ac54674aecf2be59173",
+          "title": "Fossil fuel subsidies and critical mineral funds should be used to fund healthcare in developing economies, argue researchers",
+          "url": "https://www.imperial.ac.uk/news/articles/2026/fossil-fuel-subsidies-and-critical-mineral-funds-should-be-used-to-fund-healthcare-in-developing-economies-argue-researchers/",
+          "sourceId": "imperial",
+          "source": "Imperial College London",
+          "category": "学术",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844509294
+        },
+        {
+          "id": "90f0446c9dee71358e6c",
+          "title": "Imperial hosts global gathering of future leaders at the Laidlaw Scholars Conference",
+          "url": "https://www.imperial.ac.uk/news/articles/admin-services/giving/2026/imperial-hosts-global-gathering-of-future-leaders-at-the-laidlaw-scholars-conference/",
+          "sourceId": "imperial",
+          "source": "Imperial College London",
+          "category": "学术",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844509294
+        }
+      ],
+      "checkedAt": 1792844507220,
+      "fetchedAt": 1792844509294,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "eth",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844508623,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "首页需要动态加载或未找到文章入口"
+    },
+    {
+      "sourceId": "maxplanck",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844508760,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 404"
+    },
+    {
+      "sourceId": "csiro",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "29c7851f44a2ca286d95",
+          "title": "Ocean discovery: Pacific bluefin tuna confirmed in Victorian waters",
+          "url": "https://www.csiro.au/en/news/All/Articles/2026/October/Pacific-Bluefin-Tuna-Confirmed-in-Victorian-waters",
+          "sourceId": "csiro",
+          "source": "CSIRO",
+          "category": "学术",
+          "region": "澳大利亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844512770
+        },
+        {
+          "id": "c02553058da7d9392137",
+          "title": "We love TV reno shows. Could they help us build more sustainable homes?",
+          "url": "https://www.csiro.au/en/news/All/Articles/2026/October/Could-TV-reno-shows-help-us-build-more-sustainable-homes",
+          "sourceId": "csiro",
+          "source": "CSIRO",
+          "category": "学术",
+          "region": "澳大利亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844512770
+        },
+        {
+          "id": "c93c90221029fc8095cd",
+          "title": "CSIRO's push to fast-track carbon capture materials",
+          "url": "https://www.csiro.au/en/news/All/Articles/2026/October/CCMAC",
+          "sourceId": "csiro",
+          "source": "CSIRO",
+          "category": "学术",
+          "region": "澳大利亚",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844512770
+        }
+      ],
+      "checkedAt": 1792844508980,
+      "fetchedAt": 1792844512770,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "rik",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "6f5f437f8a4d3e20699a",
+          "title": "News Reports and announcements on activities and developments at RIKEN and its centers and labs.",
+          "url": "https://www.riken.jp/en/news_pubs/news/index.html",
+          "sourceId": "rik",
+          "source": "RIKEN",
+          "category": "学术",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844511457
+        },
+        {
+          "id": "34fc515811941afe65e4",
+          "title": "For Journalists For journalists seeking more information about specific RIKEN research.",
+          "url": "https://www.riken.jp/en/news_pubs/press_center/index.html",
+          "sourceId": "rik",
+          "source": "RIKEN",
+          "category": "学术",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844511457
+        }
+      ],
+      "checkedAt": 1792844509294,
+      "fetchedAt": 1792844511458,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "nus",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844509767,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "首页需要动态加载或未找到文章入口"
+    },
+    {
+      "sourceId": "ntu",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844510662,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "首页需要动态加载或未找到文章入口"
+    },
+    {
+      "sourceId": "universitytokyo",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "d9bfe7e182226e366661",
+          "title": "CNRS-UTokyo IRC Meeting 2026 October 14, 2026 Articles",
+          "url": "https://www.u-tokyo.ac.jp/focus/en/articles/t_z0502_00002.html",
+          "sourceId": "universitytokyo",
+          "source": "University of Tokyo",
+          "category": "学术",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844517002
+        },
+        {
+          "id": "d5344feaaf7eed0c2e3c",
+          "title": "Message from the President on the Awarding of the Nobel Prize in Chemistry 2026 to Alumnus Kenso Soa... October 9, 2026 Articles",
+          "url": "https://www.u-tokyo.ac.jp/focus/en/articles/z1304_00070.html",
+          "sourceId": "universitytokyo",
+          "source": "University of Tokyo",
+          "category": "学术",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844517002
+        },
+        {
+          "id": "e54717697075cd5ab39d",
+          "title": "2026 University of Tokyo Autumn Semester Matriculation Ceremony held October 1, 2026 Articles",
+          "url": "https://www.u-tokyo.ac.jp/focus/en/articles/z1301_00070.html",
+          "sourceId": "universitytokyo",
+          "source": "University of Tokyo",
+          "category": "学术",
+          "region": "日本",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844517002
+        }
+      ],
+      "checkedAt": 1792844510869,
+      "fetchedAt": 1792844517002,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "unicef",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "5d3952c1299373ad2253",
+          "title": "Statement by UNICEF Regional Director for the Middle East and North Africa, Edouard Beigbeder, on the ongoing killings of children across the Gaza Strip",
+          "url": "https://www.unicef.org/press-releases/statement-unicef-regional-director-middle-east-and-north-africa-edouard-beigbeder-7",
+          "sourceId": "unicef",
+          "source": "UNICEF",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514805
+        },
+        {
+          "id": "6530bd29415a1eece747",
+          "title": "Gavi and UNICEF secure lower malaria vaccine price, saving US$50 million for childhood immunization programmes",
+          "url": "https://www.unicef.org/press-releases/gavi-and-unicef-secure-lower-malaria-vaccine-price-saving-us50-million-childhood",
+          "sourceId": "unicef",
+          "source": "UNICEF",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514805
+        },
+        {
+          "id": "1b600cee6d7c8e8dd809",
+          "title": "At least 12 children reportedly killed in separate incidents in West Kordofan and Khartoum, Sudan",
+          "url": "https://www.unicef.org/press-releases/least-12-children-reportedly-killed-separate-incidents-west-kordofan-and-khartoum",
+          "sourceId": "unicef",
+          "source": "UNICEF",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514805
+        }
+      ],
+      "checkedAt": 1792844510905,
+      "fetchedAt": 1792844514805,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "ilo",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "4c61ab1b4df8ebde4c23",
+          "title": "How can international labour standards help shape ethical AI at work?",
+          "url": "https://www.ilo.org/resource/news/how-can-international-labour-standards-help-shape-ethical-ai-work",
+          "sourceId": "ilo",
+          "source": "International Labour Organization",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844513405
+        },
+        {
+          "id": "39d79ca2cce73b53170b",
+          "title": "Why is life becoming harder to afford despite economic growth?",
+          "url": "https://www.ilo.org/resource/article/why-life-becoming-harder-afford-despite-economic-growth",
+          "sourceId": "ilo",
+          "source": "International Labour Organization",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844513405
+        },
+        {
+          "id": "f188d8e1edca41b743c2",
+          "title": "ILO to release new figures on domestic workers worldwide",
+          "url": "https://www.ilo.org/resource/news/ilo-release-new-figures-domestic-workers-worldwide",
+          "sourceId": "ilo",
+          "source": "International Labour Organization",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844513405
+        }
+      ],
+      "checkedAt": 1792844511458,
+      "fetchedAt": 1792844513405,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "undp",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "73dfb06101488ccc822a",
+          "title": "Press Releases New UNDP report calls for redefining security in an era of climate shocks, cybercrime, economic insecurity and distrust Read more",
+          "url": "https://www.undp.org/press-releases/new-undp-report-calls-redefining-security-era-climate-shocks-cybercrime-economic-insecurity-and-distrust",
+          "sourceId": "undp",
+          "source": "UNDP",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514311
+        },
+        {
+          "id": "04ad2ceb098d90b94aeb",
+          "title": "Speeches International Day for the Eradication of Poverty 2026 Read more",
+          "url": "https://www.undp.org/speeches/international-day-eradication-poverty-2026",
+          "sourceId": "undp",
+          "source": "UNDP",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514311
+        },
+        {
+          "id": "e061250ec605fcc67f51",
+          "title": "News Germany provides €5 million to strengthen long-term stability and recovery in Lebanon Read more",
+          "url": "https://www.undp.org/news/germany-provides-eur5-million-strengthen-long-term-stability-and-recovery-lebanon",
+          "sourceId": "undp",
+          "source": "UNDP",
+          "category": "社会",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514311
+        }
+      ],
+      "checkedAt": 1792844512069,
+      "fetchedAt": 1792844514311,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "wto",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844512655,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "首页需要动态加载或未找到文章入口"
+    },
+    {
+      "sourceId": "bis",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "a13336ed3116bc632929",
+          "title": "BCBS publication 16 Oct 2026 G-SIB window-dressing and methodology The Basel Committee has published amendments to address window dressing in the global systemically important bank (G-SIB) framework and a consultation on G-SIB methodology.",
+          "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+          "sourceId": "bis",
+          "source": "Bank for International Settlements",
+          "category": "商业",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514938
+        },
+        {
+          "id": "3417d607d8164893c46b",
+          "title": "Speech 05 Oct 2026 Central banks and crises Pablo Hernández de Cos outlines the role of central banks in managing financial crises against a backdrop of rapid change.",
+          "url": "https://www.bis.org/speeches/20261005-role-central-banks-managing-financial-crises-times-rapid-change",
+          "sourceId": "bis",
+          "source": "Bank for International Settlements",
+          "category": "商业",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514938
+        },
+        {
+          "id": "9adc78e9a90004a2ef4e",
+          "title": "21 October 2026 Artificial intelligence, monetary policy and financial stability Tao Zhang Chief Representative for Asia and the Pacific",
+          "url": "https://www.bis.org/speeches/20261021-artificial-intelligence-monetary-policy-and-financial-stability",
+          "sourceId": "bis",
+          "source": "Bank for International Settlements",
+          "category": "商业",
+          "region": "国际机构",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844514939
+        }
+      ],
+      "checkedAt": 1792844512770,
+      "fetchedAt": 1792844514939,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "ecb",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844513405,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "首页需要动态加载或未找到文章入口"
+    },
+    {
+      "sourceId": "fed",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "08dfdbdaa9ce20cc125a",
+          "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+          "sourceId": "fed",
+          "source": "Federal Reserve",
+          "category": "商业",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844516104
+        },
+        {
+          "id": "e2834c74f4065e96c922",
+          "title": "Federal Reserve Board announces termination of enforcement actions",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+          "sourceId": "fed",
+          "source": "Federal Reserve",
+          "category": "商业",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844516104
+        },
+        {
+          "id": "ca688a27006cdc18bac0",
+          "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+          "sourceId": "fed",
+          "source": "Federal Reserve",
+          "category": "商业",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844516104
+        }
+      ],
+      "checkedAt": 1792844514311,
+      "fetchedAt": 1792844516104,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "wellcome",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "7127f191750168648343",
+          "title": "Gene therapy: changing the future for people with rare diseases",
+          "url": "https://wellcome.org/insights/articles/gene-therapy-changing-future-people-rare-diseases",
+          "sourceId": "wellcome",
+          "source": "Wellcome",
+          "category": "健康",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844518571
+        },
+        {
+          "id": "7fcc97e4acd83c6d15e7",
+          "title": "Why equity is science’s greatest opportunity",
+          "url": "https://wellcome.org/insights/articles/why-equity-sciences-greatest-opportunity",
+          "sourceId": "wellcome",
+          "source": "Wellcome",
+          "category": "健康",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844518571
+        },
+        {
+          "id": "ad5acc73600ce58e0369",
+          "title": "We must study how the social media ban impacts youth mental health",
+          "url": "https://wellcome.org/insights/articles/we-must-study-how-social-media-ban-impacts-youth-mental-health",
+          "sourceId": "wellcome",
+          "source": "Wellcome",
+          "category": "健康",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844518571
+        }
+      ],
+      "checkedAt": 1792844514774,
+      "fetchedAt": 1792844518571,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "cdc",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "2ee2f0a5e7386f22c2e3",
+          "title": "Annual Report to the Nation: Progress Against Lung Cancer Drives Down Cancer Mortality",
+          "url": "https://www.cdc.gov/media/releases/2026/annual-report-to-the-nation-progress-against-lung-cancer-drives-down-cancer-mortality.html",
+          "sourceId": "cdc",
+          "source": "CDC",
+          "category": "健康",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844517134
+        },
+        {
+          "id": "38bbf97de9f8d599ceda",
+          "title": "CDC Statement on Increases in Recent Animal Rabies Activity and Associated Human Exposures",
+          "url": "https://www.cdc.gov/media/releases/2026/cdc-statement-on-increases-in-recent-animal-rabies-activity-and-associated-human-exposures.html",
+          "sourceId": "cdc",
+          "source": "CDC",
+          "category": "健康",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844517134
+        },
+        {
+          "id": "af1037b71f379ddd333f",
+          "title": "Twenty-Five Years After 9/11 — Lessons from the World Trade Center Health Program",
+          "url": "https://www.cdc.gov/media/releases/2026/twenty-five-years-after-9-11-lessons-from-the-world-trade-center-health-program.html",
+          "sourceId": "cdc",
+          "source": "CDC",
+          "category": "健康",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844517134
+        }
+      ],
+      "checkedAt": 1792844514805,
+      "fetchedAt": 1792844517134,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "ecdc",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "324f702cc7d8ab01d442",
+          "title": "Importation of Ebola cases to Kenya and Nigeria: ECDC assesses the threat",
+          "url": "https://www.ecdc.europa.eu/en/news-events/importation-ebola-cases-kenya-and-nigeria-ecdc-assesses-threat",
+          "sourceId": "ecdc",
+          "source": "ECDC",
+          "category": "健康",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844516753
+        },
+        {
+          "id": "75e34003d34493c1b659",
+          "title": "Record-high West Nile virus infections reported amid spread to new parts of Europe",
+          "url": "https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe",
+          "sourceId": "ecdc",
+          "source": "ECDC",
+          "category": "健康",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844516753
+        },
+        {
+          "id": "7c3cb3385f350974170a",
+          "title": "ECDC closely monitoring situation following case of pneumonia of unknown origin in Russia",
+          "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-closely-monitoring-situation-following-case-pneumonia-unknown-origin-russia",
+          "sourceId": "ecdc",
+          "source": "ECDC",
+          "category": "健康",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844516753
+        }
+      ],
+      "checkedAt": 1792844514939,
+      "fetchedAt": 1792844516753,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "popsci",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "c7649b63c0f06c6b2e3a",
+          "title": "How to turn your smartphone into a mobile video editing suite",
+          "url": "https://www.popsci.com/diy/how-to-turn-your-smartphone-into-a-mobile-video-editing-suite-tech-tips/",
+          "sourceId": "popsci",
+          "source": "Popular Science",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844518075
+        },
+        {
+          "id": "7429e4263e7deecd06c5",
+          "title": "The 5-Second Rule is scientifically false",
+          "url": "https://www.popsci.com/health/the-5-second-rule-is-scientifically-false/",
+          "sourceId": "popsci",
+          "source": "Popular Science",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844518075
+        },
+        {
+          "id": "dd440b1076d6dcacc3b6",
+          "title": "Play ‘Doom’ on this tiny, uterus-shaped period tracker",
+          "url": "https://www.popsci.com/health/period-tracker-doesnt-share-data-doom/",
+          "sourceId": "popsci",
+          "source": "Popular Science",
+          "category": "学术",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844518075
+        }
+      ],
+      "checkedAt": 1792844516104,
+      "fetchedAt": 1792844518075,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "newscientist",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "476c1884264b302f46a3",
+          "title": "Health Personalised cancer vaccine expected to be approved next year A bespoke vaccine that is tailored to target an individual's unique skin cancer reduced rates of recurrence or death in a late-stage trial, making an approval expected News",
+          "url": "https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year/",
+          "sourceId": "newscientist",
+          "source": "New Scientist",
+          "category": "学术",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519664
+        },
+        {
+          "id": "ac18b1bc7e584f184895",
+          "title": "Health Cholesterol may disrupt the brain’s cleaning system in Alzheimer’s disease News",
+          "url": "https://www.newscientist.com/article/2595089-cholesterol-may-disrupt-the-brains-cleaning-system-in-alzheimers-disease/",
+          "sourceId": "newscientist",
+          "source": "New Scientist",
+          "category": "学术",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519664
+        },
+        {
+          "id": "8343dd964d48681c88b1",
+          "title": "Health Newly identified ‘circadian depression’ responds poorly to antidepressants News",
+          "url": "https://www.newscientist.com/article/2594761-1-in-4-cases-of-depression-may-be-caused-by-off-kilter-body-clocks/",
+          "sourceId": "newscientist",
+          "source": "New Scientist",
+          "category": "学术",
+          "region": "英国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519664
+        }
+      ],
+      "checkedAt": 1792844516753,
+      "fetchedAt": 1792844519664,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "sapiens",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "99f9be997f309b8e0029",
+          "title": "Unearthing the Origins of Plantation Slavery on São Tomé",
+          "url": "https://www.sapiens.org/archaeology/sao-tome-archaeology-plantation-slavery/",
+          "sourceId": "sapiens",
+          "source": "SAPIENS",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519238
+        },
+        {
+          "id": "fc5731fed75effb7245e",
+          "title": "Why Are Humans Violent?",
+          "url": "https://www.sapiens.org/culture/humans-violent/",
+          "sourceId": "sapiens",
+          "source": "SAPIENS",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519238
+        },
+        {
+          "id": "541e3eef2518f8b1c033",
+          "title": "The Moral Code of Chinese Sex Workers",
+          "url": "https://www.sapiens.org/culture/china-sex-trade-moral-code/",
+          "sourceId": "sapiens",
+          "source": "SAPIENS",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519238
+        }
+      ],
+      "checkedAt": 1792844517002,
+      "fetchedAt": 1792844519238,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "jstor",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "b436d2a29e48db7c370f",
+          "title": "The Forgotten Stories Behind Presidential Campaign Buttons",
+          "url": "https://daily.jstor.org/the-forgotten-stories-behind-presidential-campaign-buttons/",
+          "sourceId": "jstor",
+          "source": "JSTOR Daily",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519131
+        },
+        {
+          "id": "5d7ef87c226751c53b10",
+          "title": "The Photographer Who Preserved Everyday Architecture",
+          "url": "https://daily.jstor.org/the-photographer-who-preserved-everyday-architecture/",
+          "sourceId": "jstor",
+          "source": "JSTOR Daily",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519131
+        },
+        {
+          "id": "2ef60ec460547ed5de4d",
+          "title": "Ghosts, Witches, and Other Halloween Stories",
+          "url": "https://daily.jstor.org/editors-picks-halloween/",
+          "sourceId": "jstor",
+          "source": "JSTOR Daily",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519131
+        }
+      ],
+      "checkedAt": 1792844517134,
+      "fetchedAt": 1792844519131,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "publicbooks",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "0f3d68cc02eba11715b3",
+          "title": "Taking Apart a Metaphor: Dan Sinykin and Sarah Brouillette on the Literary Ecosystem",
+          "url": "https://www.publicbooks.org/taking-apart-a-metaphor-dan-sinykin-and-sarah-brouillette-on-the-literary-ecosystem/",
+          "sourceId": "publicbooks",
+          "source": "Public Books",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519779
+        },
+        {
+          "id": "553828b61f737b1a04b2",
+          "title": "Use and Reuse: Dancing Again with Robert Rauschenberg",
+          "url": "https://www.publicbooks.org/use-and-reuse-dancing-again-with-robert-rauschenberg/",
+          "sourceId": "publicbooks",
+          "source": "Public Books",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519779
+        },
+        {
+          "id": "b003f5a5cc65e0f75f61",
+          "title": "Law, Written in Spray Paint",
+          "url": "https://www.publicbooks.org/law-written-in-spray-paint/",
+          "sourceId": "publicbooks",
+          "source": "Public Books",
+          "category": "人文",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844519779
+        }
+      ],
+      "checkedAt": 1792844517556,
+      "fetchedAt": 1792844519779,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "grist",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "80abfde6d8907e0240ba",
+          "title": "Europe’s hottest summer ever was also its deadliest — by far",
+          "url": "https://grist.org/extreme-heat/europes-hottest-summer-ever-was-also-its-deadliest-by-far/",
+          "sourceId": "grist",
+          "source": "Grist",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844520353
+        },
+        {
+          "id": "2a50bd7cc508f9ce7799",
+          "title": "The planet’s vital signs are getting worse. One of the easiest fixes is your diet.",
+          "url": "https://grist.org/food-and-agriculture/the-planets-vital-signs-are-getting-worse-one-of-the-easiest-fixes-is-your-diet/",
+          "sourceId": "grist",
+          "source": "Grist",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844520353
+        },
+        {
+          "id": "7249abcfba1a18f3e2cc",
+          "title": "Soaring oil prices underscore the need to help poor countries adopt renewables",
+          "url": "https://grist.org/international/oil-prices-developing-countries-energy-transition-iran-war/",
+          "sourceId": "grist",
+          "source": "Grist",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844520353
+        }
+      ],
+      "checkedAt": 1792844518075,
+      "fetchedAt": 1792844520353,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "insideclimate",
+      "basis": "feed",
+      "items": [
+        {
+          "id": "bd2d99737e8bc2876534",
+          "title": "The Locations of North Carolina’s Industrial Poultry Farms Have Been a Secret—Until Now",
+          "url": "https://insideclimatenews.org/news/24102026/north-carolina-industrial-poultry-farms-community-science/",
+          "sourceId": "insideclimate",
+          "source": "Inside Climate News",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "A few days before Christmas in 2023, the U.S. Environmental Protection Agency received a complaint through its National Response Center: “There has been a horrible smell in the air for almost a week,” the caller said, according to state records. “It’s so bad it’s making people throw up.” The caller thought the odor was emanating […]",
+          "publishedAt": 1792832400000,
+          "fetchedAt": 1792844521874
+        },
+        {
+          "id": "a80ddfda1d89c096c5c4",
+          "title": "Yes, There Is Some Global Action on Phasing Out Fossil Fuels",
+          "url": "https://insideclimatenews.org/news/24102026/yes-there-is-some-hopeful-global-action-on-phasing-out-fossil-fuels/",
+          "sourceId": "insideclimate",
+          "source": "Inside Climate News",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tzeporah Berman, the founder of the Fossil Fuel Non-Proliferation Treaty Initiative. As the United Nations gears up for the COP31 climate session in mid-November, nearly three decades after the Kyoto Protocol, there’s a newer set of",
+          "publishedAt": 1792832400000,
+          "fetchedAt": 1792844521874
+        },
+        {
+          "id": "65755b85decb6c3eb6ef",
+          "title": "A Potent Climate Super-Pollutant Is Surging in Beijing",
+          "url": "https://insideclimatenews.org/news/24102026/sf6-climate-super-pollutant-surges-in-beijing/",
+          "sourceId": "insideclimate",
+          "source": "Inside Climate News",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenhouse gas, new research concludes. The findings, published in the journal Environmental Science & Technology, suggest a decades-long effort to clean Beijing’s air is beginning to pay off. But while it cites progr",
+          "publishedAt": 1792832100000,
+          "fetchedAt": 1792844521874
+        }
+      ],
+      "checkedAt": 1792844518571,
+      "fetchedAt": 1792844521874,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "climatecentral",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "5772e327cdcc078378ce",
+          "title": "Fire weather extremes make prescribed burns riskier, but more essential than ever",
+          "url": "https://www.climatecentral.org/partnership-journalism/fire-weather-extremes-make-prescribed-burns-riskier-2022",
+          "sourceId": "climatecentral",
+          "source": "Climate Central",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844521379
+        },
+        {
+          "id": "a18a7fd6dbd1de3169f6",
+          "title": "The Rural Americans Too Poor for Federal Flood Protections",
+          "url": "https://www.climatecentral.org/partnership-journalism/the-rural-americans-too-poor-for-federal-flood-protections",
+          "sourceId": "climatecentral",
+          "source": "Climate Central",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844521379
+        },
+        {
+          "id": "73e38d3beddeb1322da9",
+          "title": "Schools in Deep Water: Bay Area Faces Uphill Battle Against Climate Change",
+          "url": "https://www.climatecentral.org/partnership-journalism/schools-in-deep-water-bay-area-faces-uphill-battle-against-climate-change",
+          "sourceId": "climatecentral",
+          "source": "Climate Central",
+          "category": "环境",
+          "region": "美国",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844521379
+        }
+      ],
+      "checkedAt": 1792844519131,
+      "fetchedAt": 1792844521379,
+      "stale": false,
+      "error": null
+    },
+    {
+      "sourceId": "noaa",
+      "basis": null,
+      "items": [],
+      "checkedAt": 1792844519238,
+      "fetchedAt": null,
+      "stale": false,
+      "error": "HTTP 403"
+    },
+    {
+      "sourceId": "copernicus",
+      "basis": "homepage",
+      "items": [
+        {
+          "id": "e568f19da0dd875c635b",
+          "title": "Global Climate Highlights 2025",
+          "url": "https://climate.copernicus.eu/global-climate-highlights-2025",
+          "sourceId": "copernicus",
+          "source": "Copernicus Climate Change Service",
+          "category": "环境",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844522807
+        },
+        {
+          "id": "62c7b2644bab7dfce5b9",
+          "title": "Explore the review to find out more",
+          "url": "https://climate.copernicus.eu/summer-review-2026",
+          "sourceId": "copernicus",
+          "source": "Copernicus Climate Change Service",
+          "category": "环境",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844522807
+        },
+        {
+          "id": "1905925bce288b9ffbd7",
+          "title": "The C3S Summer Review 2026 is out",
+          "url": "https://climate.copernicus.eu/c3s-summer-review-2026-out",
+          "sourceId": "copernicus",
+          "source": "Copernicus Climate Change Service",
+          "category": "环境",
+          "region": "欧洲",
+          "reach": 4,
+          "description": "",
+          "publishedAt": null,
+          "fetchedAt": 1792844522808
+        }
+      ],
+      "checkedAt": 1792844519664,
+      "fetchedAt": 1792844522808,
+      "stale": false,
+      "error": null
+    }
+  ],
+  "sourceCount": 123,
+  "coveredCount": 100,
+  "storyCount": 299
+}
